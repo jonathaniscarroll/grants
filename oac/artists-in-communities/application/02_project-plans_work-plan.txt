@@ -1,6 +1,6 @@
 PROJECT PLANS: Outline your work plan for this project (start date, end date, activities/tasks, location, people/organizations involved)
 
-STATUS: DRAFT 1. Original point-form notes are in git history.
+STATUS: DRAFT 2. Partner renamed Hesperus Village, located in Vaughan. Original point-form notes are in git history.
 
 --- DRAFT ---
 
@@ -12,16 +12,16 @@ Robin Moir will work about 10 hours per week for 16 to 18 weeks to plan the comm
 - developing a storyboard for the narrative and fleshing out characters
 - writing three to five initial songs to establish the work's sound
 - meeting every two weeks with Sally Lawrence, who will mentor Robin and help plan community sessions
-- meeting monthly with stakeholders at Forest Courtyard Initiative and Hesperus Fellowship to share work in progress, hear their needs, and shape the plan
+- inviting stakeholders at Forest Courtyard Initiative and Hesperus Village to monthly meetings to share work in progress, hear their needs, and shape the plan
 - working with both partners to identify participants' access needs and to plan accessible spaces and sessions
 - developing, with Sally, a curriculum and visual motifs for the follow-on co-creation project
 - preparing a plan and application for the follow-on project phase
 
 Location of activity (venue, city, province, country):
-Hesperus Fellowship, Thornhill, Ontario, Canada; Forest Courtyard Initiative, Tottenham, Ontario, Canada; and virtual meetings.
+Hesperus Village, Vaughan, Ontario, Canada; Forest Courtyard Initiative, Tottenham, Ontario, Canada; and virtual meetings.
 
-Person(s) and/or organization(s) involved:
-Robin Moir (artist, applicant); Sally Lawrence (mentor and liaison between the artist and the organizations); Forest Courtyard Initiative; Hesperus Fellowship.
+Person(s) and/or organizations involved:
+Robin Moir (artist, applicant); Sally Lawrence (mentor and liaison between the artist and the organizations); Forest Courtyard Initiative; Hesperus Village.
 
 --- TO CONFIRM ---
 - Nov 11 to Mar 11 is about 17 weeks, within the 16 to 18 weeks in the notes.
@@ -29,3 +29,6 @@ Robin Moir (artist, applicant); Sally Lawrence (mentor and liaison between the a
 - Whether Sally's curriculum work is paid under her mentor fee or is separate.
 - Make sure no public performance is scheduled before results (about end of February 2027).
 - Hourly rate in notes was "$40/hr?"; confirm before building the budget.
+- Wording change: the signed letters of intent do not mention monthly meetings, so the plan now says stakeholders are "invited" to them instead of stating that they take part. Change back to "meeting monthly with" only if the partners agree to attend.
+- Person(s) field: fix the typo "organizations" check in Nova; the field name there may be singular.
+- Venues: confirm where the meetings will happen (Hesperus Village, 1 Hesperus Rd, Vaughan; the school in Tottenham; or online).

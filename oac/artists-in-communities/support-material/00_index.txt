@@ -8,7 +8,7 @@ Checklist
 [ ] Robin CV/bio
 [ ] Sally CV/bio (mentor)
 [x] Signed letter of intent from Forest Courtyard Initiative: The Forest Courtyard Initiative.pdf (checked Oct 15: signed by Floriana Paonessa, TFCI Administrator, on letterhead, dated Oct 14, 2026, names the project)
-[x] Signed letter of intent from Hesperus: Letter of Intent_Hesperus Oct 14 2026.pdf (checked Oct 15: signed by Pina Corigliano, Executive Director, on letterhead, names the project; no year in the date; letterhead says "Hesperus Village")
+[x] Signed letter of intent from Hesperus Village (Vaughan): Letter of Intent_Hesperus Oct 14 2026.pdf (checked Oct 15: signed by Pina Corigliano, Executive Director, on letterhead, names the project; no year in the date)
 [ ] Budget and budget notes
 
 See partner-letters.txt for the full check results and what the letters do and do not say.

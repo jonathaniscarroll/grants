@@ -17,9 +17,9 @@ Forest Courtyard Initiative (Tottenham)
 [x] Names the project: "The Seer's Prophecy - Planning Phase".
 [x] A letter of intent for this project, not a reference letter.
 
-Hesperus (Thornhill/Vaughan)
+Hesperus Village (Vaughan)
 [x] Signed (handwritten signature) by Pina Corigliano, Executive Director. Not signed by Sally.
-[x] On letterhead (logo, Vaughan address, phone, email, registered charity numbers).
+[x] On letterhead (Hesperus Village logo, 1 Hesperus Rd, Vaughan address, phone, email, registered charity numbers).
 [x] Dated "Wednesday Oct 14" (no year shown). Addressed to OAC, Artists in Communities and Schools Projects.
 [x] Names the project: "The Seer's Prophecy - Planning Phase".
 [x] A letter of intent for this project, not a reference letter.
@@ -28,10 +28,14 @@ WHAT THE LETTERS ACTUALLY SAY (identical wording in both)
 - They intend to support "our community's involvement with a new theatrical work by Robin Moir, after the initial planning phase" that Robin is seeking to fund.
 - They look forward to confirming their support once funding for the planning phase is confirmed.
 - They do not mention monthly planning meetings, workshops, hosting, space, or the planning dates (Nov 2026 to Mar 2027).
-- Application text must not claim more than this. Section 03 has been reworded so the partners are described as having signed letters of intent and being invited to planning meetings, not as already committed to them.
+- Application text must not claim more than this. Sections 02, 03 and 04 now describe the partners as having signed letters of intent and being invited to planning meetings, not as already committed to them.
+
+NAME AND LOCATION (decided Oct 15)
+- The application uses "Hesperus Village" (the letterhead logo), located in Vaughan, ON.
+- The letter footer lists the registered charities "Hesperus Fellowship Community" and "Hesperus Fellowship Village". The letter body does not name the organization.
 
 TO CONFIRM
-[ ] Hesperus name. The letterhead logo reads "Hesperus Village"; the footer lists the charities "Hesperus Fellowship Community" and "Hesperus Fellowship Village"; the letter body does not name the organization. The drafts say "Hesperus Fellowship". Decide one name and use it in sections 01 to 05, 12 and 14 (see readme flag 6).
-[ ] The Hesperus letter has no year. Optional: ask Pina Corigliano for a copy dated Oct 14, 2026. It was sent with the application date context (Oct 14), so this is a low risk.
+[ ] Hesperus is happy to be called "Hesperus Village" in Nova, and its Nova partner name matches.
+[ ] The Hesperus letter has no year. Optional: ask Pina Corigliano for a copy dated Oct 14, 2026. Low risk.
 [ ] Ask whether the partners are willing to join the monthly planning meetings in the work plan (section 02). If yes, a one-line email from each would be enough to describe it as agreed.
 [ ] Rename files before upload if helpful, e.g. letter-of-intent_forest-courtyard.pdf and letter-of-intent_hesperus.pdf. Nova may not care about names for letters.
