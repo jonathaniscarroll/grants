@@ -30,5 +30,5 @@ Robin Moir (artist, applicant); Sally Lawrence (mentor and liaison between the a
 - Make sure no public performance is scheduled before results (about end of February 2027).
 - Hourly rate in notes was "$40/hr?"; confirm before building the budget.
 - Wording change: the signed letters of intent do not mention monthly meetings, so the plan now says stakeholders are "invited" to them instead of stating that they take part. Change back to "meeting monthly with" only if the partners agree to attend.
-- Person(s) field: fix the typo "organizations" check in Nova; the field name there may be singular.
-- Venues: confirm where the meetings will happen (Hesperus Village, 1 Hesperus Rd, Vaughan; the school in Tottenham; or online).
+- Check in Nova whether the field is "Person(s) and/or organizations involved" and whether it accepts this wording.
+- Venues: confirm where the meetings will happen (Hesperus Village in Vaughan; the school in Tottenham; or online). Confirm the exact name of Hesperus Village's site before submitting.
