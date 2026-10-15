@@ -1,17 +1,20 @@
 SUPPORT MATERIAL: Describe how the artistic examples relate to your project. [Maximum 150 words]
 
-STATUS: DRAFT 2 (about 143 words by estimate; check in Nova). Shadowland example now described as the Campfire Project video.
+STATUS: DRAFT 3 (146 words by count; check in Nova). Added the youth-designed pamphlet, the Setting the Trap score (a song from A Song for Hephaestus) and The Seer's Prophecy pitch deck. Audio and video files still to come.
 
 --- DRAFT ---
 
 These examples show what this phase builds on: my writing, my interest in myth, and my work with communities and children.
 
-The Song for Hephaestus video and the shadow puppet video show how I use folk opera and myth to tell stories about disability and injustice. The Hephaestus Medley, Norse Show audio and Setting the Trap sheet music show my songwriting and how I am bringing Norse mythology to the stage.
+The Song for Hephaestus video, the shadow puppet video and the score of Setting the Trap, a song from A Song for Hephaestus, show how I use folk opera and myth to tell stories about disability and injustice. The Hephaestus Medley shows my songwriting. The Norse Show audio and The Seer's Prophecy pitch deck show how I am bringing Norse mythology to the stage.
 
-The community-engaged examples are the Shadowland Theatre Campfire Project video (2019), where I performed and made music with newly immigrated communities; the video of Hephaestus at Forest Courtyard and the Toronto Waldorf School; and the children's manuscript of A Song for Hephaestus. The last two show children helping make and perform the work. This is how the project plans to work with Forest Courtyard and Hesperus.
+Community-engaged examples: the Shadowland Theatre Campfire Project video (2019), where I made music with newly immigrated communities; the video of Hephaestus at Forest Courtyard and the Toronto Waldorf School; the children's manuscript; and the pamphlet designed by Forest Courtyard youth for their production. These show children helping make the work, as we plan to do with Forest Courtyard and Hesperus Village.
 
 --- TO CONFIRM ---
+- Correction: the earlier draft said the Setting the Trap sheet music showed Norse mythology. Robin confirms it is from Hephaestus (Greek myth), so the wording is fixed.
+- Pamphlet: Robin says it was designed by youth participants in the Forest Courtyard Initiative production of Hephaestus. Confirm the production date, and that the pamphlet is listed as a community-engaged example.
+- Pitch deck: described here as a professional practice example showing the Norse work. Confirm OAC accepts it as an artistic example; it is a 19 MB PDF.
 - Campfire Project: the description comes from the resume (August to September 2019, performer and musician, collective creation and tour across the GTA and southern Ontario, shared songs, stories, puppetry and craft-making with newly immigrated communities). Confirm the video really shows that.
 - Mentorship: if you are applying for the mentorship top-up, OAC asks for artistic examples of the mentee and of the mentor if the mentor is not the applicant; see support-material for Sally's work.
-- Viewing limits: professional examples 2.5 minutes in total, community-engaged examples 2.5 minutes in total. Your list (3 videos, 2 audio, 5-page sheet music) likely exceeds that. Trim to fit.
-- File names must include "professional practice example" or "community-engaged example".
+- Viewing limits: professional examples 2.5 minutes in total, community-engaged examples 2.5 minutes in total. Each PDF page counts as 30 seconds to 2 minutes, so the score, deck and pamphlet could use up the time on their own. Choose only the key pages and trim the videos and audio to fit.
+- File names must include "professional practice example" or "community-engaged example". The three new PDFs do not yet; rename them before uploading.

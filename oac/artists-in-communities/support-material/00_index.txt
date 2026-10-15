@@ -4,7 +4,12 @@ What the application includes (from OAC): artistic examples (professional practi
 
 Checklist
 [ ] Professional practice examples (max 2.5 minutes total; file names must include "professional practice example")
+    - Setting The Trap .pdf: score of a song from A Song for Hephaestus (in folder; needs renaming)
+    - The Seer's Prophecy - Pitch Deck.pdf: pitch deck for the Norse work (in folder; needs renaming; choose key pages)
+    - Video and audio: still to come
 [ ] Community-engaged examples (max 2.5 minutes total; file names must include "community-engaged example" or "letter of reference")
+    - FSCI Song For Hephaestus pamphlet.pdf: pamphlet designed by youth participants in the Forest Courtyard Initiative production of Hephaestus (in folder; needs renaming)
+    - Video: still to come
 [ ] Robin CV/bio
 [ ] Sally CV/bio (mentor)
 [x] Signed letter of intent from Forest Courtyard Initiative: The Forest Courtyard Initiative.pdf (checked Oct 15: signed by Floriana Paonessa, TFCI Administrator, on letterhead, dated Oct 14, 2026, names the project)
@@ -16,4 +21,4 @@ See partner-letters.txt for the full check results and what the letters do and d
 Viewing time rules: 1 image = 15 seconds; 1 page = 30 seconds to 2 minutes.
 If there are no community-engaged examples, attach 2 letters of reference (max 1 page each); do not substitute extra professional practice examples.
 
-Files in this folder: partner letters (2 PDFs), Robin's October 2026 resume (PDF), example lists, Sally's bio notes. Still to add: media files for the artistic examples.
+Files in this folder: partner letters (2 PDFs), Robin's October 2026 resume (PDF), Setting The Trap score (PDF), Seer's Prophecy pitch deck (PDF), Forest Courtyard Hephaestus pamphlet (PDF), example lists, Sally's bio notes. Still to add: audio and video files for the artistic examples.
