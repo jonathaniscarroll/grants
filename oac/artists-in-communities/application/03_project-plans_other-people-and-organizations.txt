@@ -1,25 +1,29 @@
-PROJECT PLANS: Other people or organizations involved [Maximum 20 rows]
-Required per row: name, city/town, role, paid or not
+PROJECT PLANS: If you plan to involve other people or organizations in your project, list them below. [Maximum 20 rows]
 
-STATUS: point-form
+STATUS: DRAFT 1. Role descriptions reflect letters of intent: partners are not paid and are not asked to provide anything until the follow-on project.
 
---- NOTES (from rough draft, verbatim) ---
+--- DRAFT ---
 
+Row 1
 Name: Sally Lawrence
 City/town/First Nation: Thornhill
-Role on project: Mentor & Coordinator
-Paid for their work/participation: Yes
+Role on project: Mentor and coordinator (liaison between the artist and the partner organizations)
+Paid? Yes
 
-Name: Forest Courtyard initiative
+Row 2
+Name: Forest Courtyard Initiative
 City/town/First Nation: Tottenham
-Role on project: Host Organization for youth workshops
-Paid for their work/participation: No
+Role on project: Community partner; takes part in monthly planning meetings and helps shape the plan. Intended host of youth workshops in the follow-on project.
+Paid? No
 
-Name: Hesperus Village
-City/town/First Nation: (not filled in)
-Role on project: Support Organization for community workshops
-Paid for their work/participation: No
+Row 3
+Name: Hesperus Fellowship
+City/town/First Nation: Thornhill
+Role on project: Community partner; takes part in monthly planning meetings and helps shape the plan. Intended support organization for community workshops in the follow-on project.
+Paid? No
 
---- NOTES TO SELF ---
-- Hesperus city is missing (Thornhill, per other sections). Name appears as "Hesperus Village" here and "Hesperus Fellowship" elsewhere; pick one.
-- ELIGIBILITY FLAG: Sally is a full-time employee of Forest Courtyard Initiative, a partner school. OAC lists artists employed by a school involved in the project as ineligible applicants. Raise with the program administrator before submitting.
+--- TO CONFIRM ---
+- Use one name throughout: "Hesperus Fellowship" (some notes say "Hesperus Village").
+- Hesperus's town was blank in the notes; draft uses Thornhill.
+- Sally's location is Thornhill (from the notes); she also lives at Hesperus per her bio notes. Confirm.
+- Robin is the applicant, so does not appear in this table.

@@ -1,12 +1,47 @@
 BACKGROUND: Type or upload your CV(s), resume(s) and bio(s). [Maximum 1,000 words or 3 pages]
-BACKGROUND: Website address
-
-STATUS: website known; CV/bio to assemble
-
---- NOTES (from rough draft, verbatim) ---
 
 Website: robinmoir.com
 
---- NOTES TO SELF ---
-- Robin's resume (Robin_Resume_Dec2025.pdf) is in the project files; update before upload.
-- Sally's bio and highlights are in /support-material/sally-lawrence_bio-and-mentoring-notes.txt.
+STATUS: PARTIAL. Sally's bio is drafted from her notes. Robin's CV needs Robin's own details; only facts from this project are included.
+
+--- ROBIN MOIR (applicant) ---
+
+Robin Moir is a multidisciplinary artist, musician, theatre creator and filmmaker, and an educator, guide and storyteller. Their folk opera A Song for Hephaestus uses Greek mythology to explore disability, injustice and the liberatory potential of creative labour. It premiered at the Chester Playhouse in 2024. In spring and summer 2025, Robin and Sally Lawrence staged two productions of the opera at Forest Courtyard Initiative and the Toronto Waldorf School, adapted for children aged 7 to 13. The two artists then co-created a musical about four Abrahamic faiths (Judaism, Christianity, Islam and the Baha'i Faith) with children at Forest Courtyard Initiative. Robin is now developing The Seer's Prophecy, a folk opera based on Norse mythology. Website: robinmoir.com.
+
+[Robin to add: film and music credits, other productions, education and training, other community work, with years.]
+
+--- SALLY LAWRENCE (mentor) ---
+
+Sally Lawrence is an artist and educator with more than 45 years of experience in public sculpture, illustration, teaching, and large-scale collaborations with labour, arts and educational organizations.
+
+Selected artistic work
+- 1985: moved to Earlton and created a life-size moose and wolves sculpture, carved in cedar, for the Northern Frontier Zoo
+- 1987 to 1994: collaborated on a 10-metre granite abstraction of a mine headframe, with carved negative bas reliefs and five life-size welded steel figures of miners coated in bronze, for the Miners' Memorial Foundation, Kirkland Lake
+- 1996: illustrated The Life, Death, and Life of a Mining Town, by Chuck Angus and Britt Griffin, using collaged, painted and drawn archival photographs
+- 1998: welded two life-size figures of Mr. Schumacher and Sandy McIntyre for the Schumacher Revitalization Committee
+- 2000: collaborated on bas relief sculptures in nickel-silver depicting miners of different eras for the Town of Cobalt, revitalized in 2023
+- 2001 to 2013: welded three life-size nickel-silver figures of different ages, genders and backgrounds, with a solar sculpture and labyrinth, commemorating the Day of Mourning for workers killed or injured on the job, in Brampton and Mississauga
+
+Education
+- 1984: Ontario College of Art (with honours)
+- 1987: BA in Fine Art, University of Guelph
+- 1988: Northern College welding course
+- 2010: Rudolf Steiner Centre, Toronto; trained Waldorf grades teacher
+- 2015: Bachelor of Education, York University
+
+Teaching and community work
+- 2006 to 2009: summer and March Break programs, Ross Creek Centre for the Arts
+- 2008: began teaching at South Shore Waldorf School, Blockhouse, Nova Scotia
+- 2010 to 2014: lead grades teacher, Toronto Waldorf School
+- 2014 to 2025: lead kindergarten teacher, Toronto Waldorf School Summer Camp
+- 2015 to 2026: private tutor in English and art
+- 2023: began part-time at Forest Courtyard Initiative
+- Currently full-time lead grades teacher, Forest Courtyard Initiative
+
+Grants: Artists in the Workplace (three grants, 1990s); Artists in the Schools (two grants, 1990s)
+
+--- TO CONFIRM ---
+- Sally's "2001: moved to Nova Scotia" appears in her notes; the 2001 to 2013 Brampton/Mississauga work overlaps, so I did not repeat the move. Confirm she wants it included.
+- Sally has lived at Hesperus for many years (notes say both "since 2010" and "17 years"); add a line once confirmed.
+- Combined word count of Robin and Sally entries is within 1,000; adding Robin's credits is fine.
+- Do not add credits for Robin that have not been confirmed.
