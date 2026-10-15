@@ -41,7 +41,7 @@ Status key: DRAFT = written and within the word limit, awaiting Robin's review; 
 | 09_background_who-you-are | Who you are as an artist | 300 | DRAFT 1 (276 words) |
 | 10_background_context | Context you work in | 300 | DRAFT 3 (about 298 words; tight) |
 | 11_background_group-members | Group members | n/a | EMPTY (likely not needed: Robin is an individual applicant) |
-| 12_background_cv-bio-website | CVs, bios, website | 1,000 words | DRAFT 4 (about 975 words; NS removed from Robin's entries) |
+| 12_background_cv-bio-website | CVs, bios, website | 1,000 words | DRAFT 5 (about 980 words; The Tempest now South Shore Players, Chester, NS) |
 | 13_support-material_examples-description | How examples relate | 150 | DRAFT 2 (about 143 words; Campfire Project video) |
 | 14_budget | Budget and notes | 1,000 | DRAFT 1 ($9,800 total: Robin $6,800, Sally $3,000 mentorship) |
 
@@ -51,9 +51,10 @@ Support material is in `/support-material` (index, example lists, Sally's bio no
 
 - Priority groups: disability, and living outside the city of Toronto (a postal code not starting with M counts, per Robin).
 - Sally and Robin co-led the Forest Courtyard youth adaptation (May 2025), the Toronto Waldorf School camp (July 2025) and Children of Abraham (June 2026). Sally was not involved in The Tempest.
+- The Tempest (June 2026) was staged by South Shore Players in Chester, NS (per Robin). Section 12 lists it that way.
 - The Shadowland example is the Campfire Project video (2019).
 - Hesperus staff history (2014 to 2020) is mentioned in sections 04 and 12.
-- Nova Scotia locations are removed from Robin's CV entries.
+- Other Nova Scotia locations (Mahone Bay, the Cape Breton farm) are removed from Robin's CV entries.
 - Cut from the CV for space: Shakespeare in Action, the 2018 to 2019 Toronto Waldorf School assistant role, the volunteer list, freelance film and music, and the Shattering the Silence Festival credit.
 
 ## Open flags
@@ -68,8 +69,8 @@ Support material is in `/support-material` (index, example lists, Sally's bio no
 8. **Artistic example limits.** The example list probably exceeds 2.5 minutes per category; trim before upload (section 13).
 9. **Mentorship examples.** Include artistic examples and CVs for the mentor (Sally) and mentee (Robin).
 10. **Dates and grades.** Section 04 says Sally teaches grades 2 to 7 at Forest Courtyard; earlier notes said "grades 1-6"; the resume says the May 2025 adaptation was for grades 1 to 5. Sally's time at Hesperus is "since 2010" in one place and "17 years" in another. Section 01 says Hephaestus premiered "at the Chester Playhouse"; the resume says only that it was done with Chester Playhouse and premiered in August 2024.
-11. **The Tempest.** The resume says "South Shore Players, Tottenham, ON", but South Shore Players is in Lunenburg, NS. The company is left off the CV, and the production has no Sally credit. Say how Robin wants it described (for example, staged in Tottenham, with or without the company name).
+11. **The Tempest (resume mismatch).** Section 12 now says South Shore Players, Chester, NS, per Robin. Robin's uploaded resume still says "South Shore Players, Tottenham, ON"; correct the resume so the two documents match. Sally has no credit on this production.
 12. **Resume wording.** The resume itself does not mention Sally or her co-leading. Sections 01, 06 and 12 now credit her; make sure Robin's own uploaded resume does not contradict them.
 13. **Campfire Project video.** Section 13 describes it from the resume. Confirm the video shows that.
 14. **Section 09.** It has about 24 words of room. Add a credit only if Robin wants; credits are in section 12.
-15. **Word counts.** All counts are estimates. Sections 10 (298 of 300) and 12 (about 975 of 1,000) are tightest. Check in Nova.
+15. **Word counts.** All counts are estimates. Sections 10 (298 of 300) and 12 (about 980 of 1,000) are tightest. Check in Nova.
