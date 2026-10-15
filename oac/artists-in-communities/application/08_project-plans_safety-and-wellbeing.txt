@@ -1,12 +1,12 @@
 PROJECT PLANS: Describe how the safety and well-being (physical, emotional, social, or other) of all involved in the project is addressed in your project plan. [Maximum 250 words]
 
-STATUS: DRAFT 1 (223 words). Original point-form notes are in git history (previous commit).
+STATUS: DRAFT 2 (about 225 words). Partner named Hesperus Village; session wording made conditional to match section 14, which budgets no participant sessions in this phase. Original point-form notes are in git history.
 
 --- DRAFT ---
 
-Safety and accessibility are central to this planning phase. With Forest Courtyard Initiative and Hesperus, we will keep a living document of participants' needs and who wants to take part, so every space can be made accessible.
+Safety and accessibility are central to this planning phase. With Forest Courtyard Initiative and Hesperus Village, we will keep a living document of participants' needs and who wants to take part, so every space can be made accessible.
 
-Physical: we will check each venue for step-free access, wheelchair space, and seating close to the action for people with vision or hearing impairments. Sessions will include extra time for breaks, rest and water, with Forest Courtyard assistant teachers checking in. Public health protocols will apply: stay home if sick, hand sanitizing, and good air circulation.
+Physical: we will check each venue for step-free access, wheelchair space, and seating close to the action for people with vision or hearing impairments. Any sessions will include extra time for breaks, rest and water, with Forest Courtyard assistant teachers checking in. Public health protocols will apply: stay home if sick, hand sanitizing, and good air circulation.
 
 Legal: we will confirm chaperone and staff ratios, vulnerable-sector or criminal record checks for school staff and facilitators, and first-aid-trained staff on site.
 
@@ -16,6 +16,7 @@ Participants will have a designated person to go to, confidentially, if they fee
 
 --- TO CONFIRM ---
 - The draft says we will CHECK venues for step-free access and wheelchair space (the original notes had these as questions); no accessibility is claimed as existing.
+- "Sessions will include" became "Any sessions will include" because section 14 budgets no participant sessions in this phase. If sessions will happen now, say so here and add costs to the budget.
 - Who the designated confidential contact person will be.
 - Who holds first-aid training and current vulnerable-sector checks at each site.
 - Safe to cut ~25 words if needed, or add the confirmed contact person's role.

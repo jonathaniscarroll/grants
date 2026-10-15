@@ -1,6 +1,6 @@
 PROJECT PLANS: What immediate and ongoing benefits do you expect the project will have for them? [Maximum 450 words]
 
-STATUS: DRAFT 2 (about 380 words by estimate). Production dates updated from Robin's resume; Sally and Robin lead the productions together. Original point-form notes are in git history.
+STATUS: DRAFT 3 (about 385 words by estimate). Production dates updated from Robin's resume; Sally and Robin lead the productions together. Monthly meetings now described as invitations, to match sections 02 to 04. Original point-form notes are in git history.
 
 --- DRAFT ---
 
@@ -9,7 +9,7 @@ Sally Lawrence will be my mentor, the liaison between me and both organizations,
 Immediate benefits, during this planning phase:
 - Children: many of them were in the productions Sally and I led together at Forest Courtyard in May 2025 and June 2026, so the relationship is already established. This phase lets that relationship go deeper. They will meet Norse mythology in class, see the storyboard and songs as they develop, and be in conversation with the work from the start.
 - Hesperus residents: they are invited to say how they want to take part, as leaders sharing a craft they know well or as learners picking up something new. Being asked, and having their knowledge treated as valuable, is a benefit in itself.
-- Both communities: monthly meetings give each a real voice in shaping the project before any creation begins.
+- Both communities: invitations to monthly meetings give each a real voice in shaping the project before any creation begins.
 - Me, as the artist: mentorship from Sally, who has 45 years of experience as an artist, teacher and collaborator on large projects, and time to develop the opera carefully with the people it is for.
 
 Ongoing benefits, as the work continues into a project phase:
@@ -24,4 +24,5 @@ Together, these benefits are about connection: a rural school community and a su
 - Production dates: the resume lists the Forest Courtyard youth adaptation of Hephaestus (May 2025) and Children of Abraham (June 2026). Robin says Sally and Robin led these together; the resume itself does not mention Sally.
 - "Many for years": Sally's time at Hesperus appears as both "since 2010" and "17 years". Draft says "many years" until confirmed.
 - "Mentorship from Sally ... 45 years": from Sally's own mentoring notes.
-- About 70 words of room; could add a line on how benefits are measured or on a specific outcome, e.g., songs shared back with participants.
+- Wording change: "monthly meetings give each a real voice" became "invitations to monthly meetings give each a real voice", because the letters of intent do not mention meetings.
+- About 65 words of room; could add a line on how benefits are measured or on a specific outcome, e.g., songs shared back with participants.

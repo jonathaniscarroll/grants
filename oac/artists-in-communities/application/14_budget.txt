@@ -1,6 +1,6 @@
 BUDGET: Fill in OAC's project budget form. Must balance at $0. Budget notes: [Maximum 1,000 words if using text box]
 
-STATUS: DRAFT 1. Sally is paid from the mentorship fund; Robin's fee is the remainder.
+STATUS: DRAFT 2. Sally is paid from the mentorship fund; Robin's fee is the remainder. Monthly meetings now described as invitations, to match sections 02 to 04.
 
 --- BUDGET FORM (proposed) ---
 
@@ -20,13 +20,13 @@ Checks against program limits
 - Planning grant cap is $7,500; request is $6,800.
 - Mentorship top-up cap is $3,000; request is $3,000.
 
---- BUDGET NOTES (paste-ready draft, about 260 words) ---
+--- BUDGET NOTES (paste-ready draft, about 265 words) ---
 
 This budget supports a four-month planning phase, November 11, 2026 to March 11, 2027, for the community co-creation of The Seer's Prophecy.
 
-Artist fee ($6,800): Robin Moir will work about 10 hours per week for 17 weeks, or 170 hours, at $40 per hour. This time covers developing the storyboard and characters, writing three to five initial songs, preparing materials to share with both partner communities, meeting monthly with stakeholders at Forest Courtyard Initiative and Hesperus Village, planning accessible spaces and sessions, and preparing a plan for the follow-on project.
+Artist fee ($6,800): Robin Moir will work about 10 hours per week for 17 weeks, or 170 hours, at $40 per hour. This time covers developing the storyboard and characters, writing three to five initial songs, preparing materials to share with both partner communities, inviting stakeholders at Forest Courtyard Initiative and Hesperus Village to monthly meetings, planning accessible spaces and sessions, and preparing a plan for the follow-on project.
 
-Mentor fee ($3,000): Sally Lawrence will mentor Robin and act as liaison between Robin and both partner organizations. Her work includes biweekly mentoring and planning meetings with Robin, designing a curriculum to structure participation in the follow-on project, establishing visual motifs for the collaborative work, and attending monthly stakeholder meetings. Robin is a professional artist who identifies as disabled and lives outside Toronto, both OAC priority groups, and this fee is requested from the program's mentorship funds.
+Mentor fee ($3,000): Sally Lawrence will mentor Robin and act as liaison between Robin and both partner organizations. Her work includes biweekly mentoring and planning meetings with Robin, designing a curriculum to structure participation in the follow-on project, establishing visual motifs for the collaborative work, and attending the monthly stakeholder meetings to which both partners are invited. Robin is a professional artist who identifies as disabled and lives outside Toronto, both OAC priority groups, and this fee is requested from the program's mentorship funds.
 
 Forest Courtyard Initiative and Hesperus Village have given letters of intent. They are not paid and are not being asked to provide space, volunteers or other contributions until a follow-on project is funded, so no in-kind or partner revenue is included here.
 
@@ -38,4 +38,5 @@ The budget has no administrative, marketing, venue or materials costs, because t
 - Sally's $3,000 is entered as a flat fee. OAC may expect an hourly or per-meeting breakdown. At $40/hour it is 75 hours: about 9 biweekly meetings, 4 to 5 monthly stakeholder meetings, curriculum design and liaison. Confirm her hours and rate.
 - Does the mentorship program require the mentee (Robin) to be named with artistic examples and CV? Yes: both names, examples and CVs are required.
 - Accessibility costs (e.g., interpretation, accessible venue) are eligible expenses; none are in this budget since no sessions with participants happen in this phase. Add a line if the plan includes any.
+- Wording change: "meeting monthly with stakeholders" and "attending monthly stakeholder meetings" now say the partners are invited, because the letters of intent do not mention meetings.
 - RESIDENCY: if Robin is not an Ontario resident, the application is likely ineligible. See readme flag 1.

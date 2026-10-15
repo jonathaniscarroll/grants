@@ -1,19 +1,21 @@
 PROJECT PLANS: What are your plans to reach your intended audience, participants or community? [Maximum 225 words]
 
-STATUS: DRAFT 1 (189 words). Original point-form notes are in git history (previous commit).
+STATUS: DRAFT 2 (about 195 words). Partner named Hesperus Village; timeline set to about four months; workshops described as possibilities for the follow-on project, to match sections 02, 04 and 14. Original point-form notes are in git history.
 
 --- DRAFT ---
 
-Outreach will run through Sally Lawrence and our two partners, who can bring these stories to people already interested in them. Forest Courtyard Initiative, Hesperus and Sally also have connections to other schools and groups in the area, which will matter for larger events later.
+Outreach will run through Sally Lawrence and our two partners, who can bring these stories to people already interested in them. Forest Courtyard Initiative, Hesperus Village and Sally also have connections to other schools and groups in the area, which will matter for larger events later.
 
 The planning phase gives us time to build excitement and investment before any formal creation begins.
 
 At Forest Courtyard, Sally will introduce Norse mythology in her classroom and share the pitch deck, storyboard and song drafts as they develop, so children are in conversation with the piece early and have time to form their own ideas.
 
-At Hesperus, over these four to five months, Sally will help me find residents who want to lead or learn: songwriters who could lead song circles, writers who could guide lyric and wordplay workshops, and visual artists who could shape crafting and world-building. Others may simply want to learn a new skill.
+At Hesperus Village, over these four months, Sally will help me find residents who want to lead or learn: songwriters who could lead song circles, writers who could guide lyric and wordplay workshops, and visual artists who could shape crafting and world-building. Others may simply want to learn a new skill.
 
-Planned workshops will cover music creation, lyric writing, devised theatre, character work, and designing props and set pieces. Events will be geared to different groups, including intergenerational sessions, so that each participant has a way in.
+In the follow-on project, workshops could cover music creation, lyric writing, devised theatre, character work, and designing props and set pieces. Events could be geared to different groups, including intergenerational sessions, so that each participant has a way in.
 
 --- TO CONFIRM ---
 - Sally introducing Norse mythology in her classroom is part of her teaching job; confirm that is how Robin and Sally want it described (it is in the original notes).
-- Rewrote "over the next 4-5 months" as matching the Nov 11 to Mar 11 window; confirm.
+- "Four months" matches the Nov 11 to Mar 11 window (the original notes said 4-5 months); confirm.
+- Workshops and events are now described as possibilities in the follow-on project (they were "planned" and "will be"), because section 14 budgets no participant sessions in this phase. Change back only if sessions will happen during this phase, and then add costs to the budget.
+- Check the actual word count in Nova.
