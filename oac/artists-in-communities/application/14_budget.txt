@@ -1,0 +1,20 @@
+BUDGET: Fill in OAC's project budget form (must balance at $0). Type or upload budget notes. [Maximum 1,000 words if using text box]
+
+STATUS: no budget drafted for this Planning version yet
+
+--- NOTES (from rough draft) ---
+
+Robin - 10 hours of work per week for 16-18 weeks ($40/hr?)
+Sally Lawrence listed as paid mentor & coordinator
+Partners (FCI, Hesperus) unpaid; volunteers provide snacks; partners provide space
+
+--- WORKING ARITHMETIC ---
+10 hrs x 16 weeks x $40 = $6,400
+10 hrs x 18 weeks x $40 = $7,200
+Planning grant maximum = $7,500
+Optional mentorship funds: up to $3,000 more, only for mentoring professional artists from OAC priority groups (names, CVs and artistic examples of mentor and mentee required)
+
+--- QUESTIONS ---
+- Is Sally's fee a mentorship line (mentor of Robin) or an artist/coordinator fee? Mentees must be professional artists in an OAC priority group.
+- Sally's paid role interacts with the school-employee ineligibility rule; see readme.
+- Eligible lines to consider: artist fees, travel, small materials, snacks, accessibility costs, admin.

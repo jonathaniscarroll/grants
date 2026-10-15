@@ -1,0 +1,12 @@
+BACKGROUND: Type or upload your CV(s), resume(s) and bio(s). [Maximum 1,000 words or 3 pages]
+BACKGROUND: Website address
+
+STATUS: website known; CV/bio to assemble
+
+--- NOTES (from rough draft, verbatim) ---
+
+Website: robinmoir.com
+
+--- NOTES TO SELF ---
+- Robin's resume (Robin_Resume_Dec2025.pdf) is in the project files; update before upload.
+- Sally's bio and highlights are in /support-material/sally-lawrence_bio-and-mentoring-notes.txt.

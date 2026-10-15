@@ -1,0 +1,25 @@
+PROJECT PLANS: Other people or organizations involved [Maximum 20 rows]
+Required per row: name, city/town, role, paid or not
+
+STATUS: point-form
+
+--- NOTES (from rough draft, verbatim) ---
+
+Name: Sally Lawrence
+City/town/First Nation: Thornhill
+Role on project: Mentor & Coordinator
+Paid for their work/participation: Yes
+
+Name: Forest Courtyard initiative
+City/town/First Nation: Tottenham
+Role on project: Host Organization for youth workshops
+Paid for their work/participation: No
+
+Name: Hesperus Village
+City/town/First Nation: (not filled in)
+Role on project: Support Organization for community workshops
+Paid for their work/participation: No
+
+--- NOTES TO SELF ---
+- Hesperus city is missing (Thornhill, per other sections). Name appears as "Hesperus Village" here and "Hesperus Fellowship" elsewhere; pick one.
+- ELIGIBILITY FLAG: Sally is a full-time employee of Forest Courtyard Initiative, a partner school. OAC lists artists employed by a school involved in the project as ineligible applicants. Raise with the program administrator before submitting.
