@@ -1,18 +1,19 @@
 BACKGROUND: Tell us about who you are as an artist, arts professional, group or organization. [Maximum 300 words]
 
-STATUS: point-form (Robin's voice)
+STATUS: DRAFT 1 (276 words). Original point-form notes are in git history.
 
---- NOTES (from rough draft, verbatim) ---
+--- DRAFT ---
 
-I am a multidisciplinary artist, musician, theatre creator and filmmaker. I also have experience working as an educator, guide, storyteller, etc
-As a queer, neurodivergent person living with invisible disabilities... growing up in poverty in rural communities and being exposed to people of all walks of life, backgrounds, and income brackets as I travelled and grew as an artist, I've had a lot of experience inhabiting a variety of spaces, fitting myself into them like a chameleon yet never feeling quite like I belonged... finding spaces where each person in the community is lifted up through expression - not brought down by the weight of perfectionism, but given the tools to emancipate themselves through the process of creation
-Exploring being othered, how it feels to be on the outside of societal norms - and seeing how every person experiences this to different degrees - whether through race, gender, sexuality, income inequality, disability, trauma, etc  - how our differences, what we do not understand about each other can always be a key into understanding more about the not only each other but also world around us and ourselves.
-Deepening empathy through creative work
-I am going to tell you a story: a lie made of truth - how can mythology and fiction explain simple truths to an audience, to a community, even to the creators of the work? How can a story or a piece of music put you into another person's experience, make you walk in their shoes?
-Emancipatory propaganda art - how do we emancipate ourselves through the act of creation and make visible the propaganda all around us - how do we turn it into
-Working with people - bringing out their potential and their super powers - what makes them unique, what only they can bring to a project to make it alive and magical
-When we work in community, in collective creation, everyone is empowered and the art becomes more alive, more magic when each person's voice
+I am a multidisciplinary artist, musician, theatre creator and filmmaker, and I also work as an educator, guide and storyteller. My folk opera A Song for Hephaestus used Greek mythology to explore disability, injustice and the liberatory potential of creative labour, and my current work turns to Norse mythology.
 
---- NOTES TO SELF ---
-- Two lines are unfinished ("how do we turn it into" and "more magic when each person's voice").
-- Add concrete credits (A Song for Hephaestus, Forged in Fable, community-engaged work). Pull verified details from Robin's resume.
+I am queer and neurodivergent, I live with invisible disabilities, and I grew up in poverty in rural communities. As I travelled and grew as an artist I moved among people of every background and income bracket, fitting myself into each space like a chameleon yet never quite belonging. That experience of being on the outside of societal norms shapes what I make. I look for spaces where everyone is lifted up through expression, not weighed down by perfectionism, and given the tools to free themselves through the act of creating.
+
+Everyone experiences being othered to some degree, through race, gender, sexuality, income, disability, trauma and more. What we do not understand about each other can be a way in to understanding each other, the world and ourselves. I use myth and fiction for that: a story can explain simple truths to an audience, a community and even the people making it, and a song can put you in someone else's shoes. I am interested in how creation can make the propaganda around us visible, and help people free themselves from it.
+
+My strength is working with people. I love bringing out what is unique in each person, what only they can contribute to make a project alive. In collective creation, everyone is empowered and the work becomes more alive when each person's voice is in it.
+
+--- TO CONFIRM ---
+- Disclosure of queer, neurodivergent and disability identity is Robin's choice; remove anything not wanted in a funding application.
+- Original notes had unfinished lines ("Emancipatory propaganda art ... how do we turn it into" and "each person's voice"); I finished them in a neutral way. Robin to rewrite in their own words.
+- Original notes included the line "I am going to tell you a story: a lie made of truth". Consider restoring it as an opening line if it is Robin's signature phrase.
+- Credits to add if wanted (only if true): films made, performances, music released, education/training.

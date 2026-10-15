@@ -1,20 +1,27 @@
 PROJECT PLANS: What immediate and ongoing benefits do you expect the project will have for them? [Maximum 450 words]
 
-STATUS: point-form, notes say not enough words
+STATUS: DRAFT 1 (376 words). Original point-form notes are in git history.
 
---- NOTES (from rough draft, verbatim) ---
+--- DRAFT ---
 
-- Sally Lawrence working as lead teacher, as liaison... and as mentor to Robin...would be both convenient and very rich for the children and other community participants - as she would be able to tie the learning and creation we do in the community into the children's education
-- this opportunity could be life changing for the children getting to be at the centre of the work
-- Many of the same children have been in the productions Robin and Sally put on at Forest Courtyard for the past two years and have an established relationship... but this opportunity would allow for the learning and creation to go so much deeper
-- the children could be fully immersed in the mythology and surrounding history and folklore, they would be learning real world skills, learning that they are capable of creating big things, that their ideas can be manifested into becoming tangible and having impact on their communities - showing them they can make an impact and they can make change happen
-- these children would also benefit from having more elder examples to learn from
-- The guidance from the elder community members at Hesperus has the ability to give the children new perspective and wisdom....
-- Intergenerational wisdom-sharing and reverence for the knowledge of the older generations are a necessity that is sorely lacking in our society
-- with Sally Lawrence as also acting liaison (who has lived and worked with the people of Hesperus since 2010? )
-- Also a huge benefit for the Hesperus residents to have time with young children, fulfilling mentorship roles, being given opportunities to play and explore new concepts and ideas from the younger generations, while being uplifted as community leaders
-- (not enough words)
+Sally Lawrence will be my mentor, the liaison between me and both organizations, and lead teacher for the Forest Courtyard children. That combination is convenient and, more importantly, rich for everyone involved. She can connect what we plan and create in the community to the children's education, so the work becomes part of their learning rather than an extra.
 
---- NOTES TO SELF ---
-- Sally's Hesperus history: "since 2010?" here; her notes elsewhere say 17 years. Confirm.
-- Be explicit about planning-phase benefits vs. benefits of the later full project.
+Immediate benefits, during this planning phase:
+- Children: many of them were in the productions Sally and I staged at Forest Courtyard over the past two years, so the relationship is already established. This phase lets that relationship go deeper. They will meet Norse mythology in class, see the storyboard and songs as they develop, and be in conversation with the work from the start.
+- Hesperus residents: they are invited to say how they want to take part, as leaders sharing a craft they know well or as learners picking up something new. Being asked, and having their knowledge treated as valuable, is a benefit in itself.
+- Both communities: monthly meetings give each a real voice in shaping the project before any creation begins.
+- Me, as the artist: mentorship from Sally, who has 45 years of experience as an artist, teacher and collaborator on large projects, and time to develop the opera carefully with the people it is for.
+
+Ongoing benefits, as the work continues into a project phase:
+- Children can be immersed in mythology, history and folklore, learn real-world skills, and see that their ideas can become something tangible that affects their community. That could be life-changing for them.
+- Children gain elders to learn from. Guidance from Hesperus residents can offer new perspective and wisdom, and intergenerational wisdom-sharing and respect for older generations are sorely lacking in our society.
+- Residents spend time with young children in mentorship roles, are invited to play and explore new ideas with younger generations, and are uplifted as community leaders.
+- Sally has lived and worked among the Hesperus community for many years, and that trust carries forward and helps both communities connect.
+
+Together, these benefits are about connection: a rural school community and a suburban retirement community, each with much to give the other, building a relationship that can last beyond any one project.
+
+--- TO CONFIRM ---
+- "Over the past two years": from your notes; confirm the productions' years.
+- "Many for years": Sally's time at Hesperus appears as both "since 2010" and "17 years". Draft says "many years" until confirmed.
+- "Mentorship from Sally ... 45 years": from Sally's own mentoring notes.
+- ~70 words of room; could add a line on how benefits are measured or on a specific outcome, e.g., songs shared back with participants.

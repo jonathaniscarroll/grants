@@ -35,11 +35,11 @@ Status key: DRAFT = written and within the word limit, awaiting Robin's review; 
 | 03_project-plans_other-people-and-organizations | Other people and organizations | 20 rows | NOTES |
 | 04_project-plans_why-these-partners | Why these partners | 400 | DRAFT 2 (about 330 words; updated for letters of intent) |
 | 05_project-plans_audiences-and-communities | Who you intend to reach | none | NOTES |
-| 06_project-plans_benefits | Benefits | 450 | NOTES (over limit) |
+| 06_project-plans_benefits | Benefits | 450 | DRAFT 1 (376 words) |
 | 07_project-plans_reaching-audience | Reaching your audience | 225 | DRAFT 1 (189 words) |
 | 08_project-plans_safety-and-wellbeing | Safety and well-being | 250 | DRAFT 1 (223 words) |
-| 09_background_who-you-are | Who you are as an artist | 300 | NOTES (unfinished lines) |
-| 10_background_context | Context you work in | 300 | NOTES (very rough) |
+| 09_background_who-you-are | Who you are as an artist | 300 | DRAFT 1 (276 words) |
+| 10_background_context | Context you work in | 300 | DRAFT 1 (285 words) |
 | 11_background_group-members | Group members | n/a | EMPTY (likely not needed: Robin is an individual applicant) |
 | 12_background_cv-bio-website | CVs, bios, website | 1,000 words | NOTES |
 | 13_support-material_examples-description | How examples relate | 150 | EMPTY |
@@ -57,3 +57,5 @@ Support material is in `/support-material` (index, example lists, Sally's bio no
 6. **Naming.** Use one name for the partner ("Hesperus Fellowship" is used in drafts; some notes say "Hesperus Village").
 7. **Letters of intent.** Signed letters are in hand. Before upload, check they are signed by the organizations (not Sally), name the project, and match the partner names used in the application. See `support-material/partner-letters.txt`.
 8. **Section 03.** Partners are listed as unpaid; make sure the role descriptions say "letter of intent, planning-phase meetings" and do not imply space or volunteers are committed now.
+9. **Disclosure and priority groups (sections 09, 10).** Robin decides how much identity to disclose. Verify OAC's current priority group list before submitting; the drafts treat disability as the confirmed priority group.
+10. **Years and dates.** Productions' years and Sally's time at Hesperus (since 2010 vs. 17 years) are still inconsistent in the notes.

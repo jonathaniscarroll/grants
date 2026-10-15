@@ -1,11 +1,21 @@
-BACKGROUND: Describe the context in which you work. You may include environment, community, artistic influences and cultural identity or, as relevant, your connection to OAC priority groups and how they have had an impact on you or your organization's art, career/development and decisions. [Maximum 300 words]
+BACKGROUND: Describe the context in which you work. (environment, community, artistic influences, cultural identity, connection to OAC priority groups) [Maximum 300 words]
 
-STATUS: very rough
+STATUS: DRAFT 1 (285 words). Original notes: "priority groups - disabilities and living outside of Toronto city centre".
 
---- NOTES (from rough draft, verbatim) ---
+--- DRAFT ---
 
- - priority groups - disabilities and living outside of Toronto city centre
+My work comes from two places that shape who I am as an artist: disability and life outside the centre of Toronto.
 
---- NOTES TO SELF ---
-- Can draw on the identity and rural-poverty points in 09_background_who-you-are.txt, but only what Robin is comfortable stating in an application.
-- Confirm which OAC priority groups Robin identifies with.
+I live with invisible disabilities and am neurodivergent. Disability is a priority group for OAC and also a theme in my art. A Song for Hephaestus explored disability, injustice and the liberatory potential of creative labour. Living with disability has taught me how often spaces are built for some people and not others, and it is why access sits at the centre of this project: we will work with partners to learn who wants to take part, and to make our spaces and sessions work for them.
+
+I grew up in poverty in rural communities and now work outside downtown Toronto, in a rural school community near Tottenham and a retirement community in Thornhill. Growing up rural taught me how much creative life depends on the people around you, and how rarely communities like these are the focus of arts funding. I want to create art with people where they already live and learn, not ask them to travel to it.
+
+My artistic influences are mythology and folklore, folk music and theatre. I use well-known stories and rich songwriting to give people an easy way in, then make room for new voices. As a queer person, I am also drawn to stories about difference and belonging, and about finding community in unexpected places.
+
+The communities I work with include children who live and learn in a rural, nature-based school, and older adults who have lived all over the world. Working with both, I have seen how much each group gains from the other, and that is the work I want to keep doing.
+
+--- TO CONFIRM ---
+- Check OAC's current list of priority groups before submitting. Disability is confirmed in the program; the draft treats "outside Toronto city centre" as context, not a named priority group, until verified.
+- "How rarely communities like these are the focus of arts funding" is an opinion, not a sourced fact; remove if Robin disagrees.
+- Robin to confirm where they live; this draft only says where the work happens.
+- The queer identity line is optional; keep only if Robin wants it included.
