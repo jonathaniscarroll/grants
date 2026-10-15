@@ -1,18 +1,26 @@
 PROJECT PLANS: What are you planning to do, and what do you want to achieve with this project? [Maximum 425 words]
 
-STATUS: point-form/rough draft, needs trimming and rewrite
+STATUS: DRAFT 1 (375 words). Original point-form notes are in git history (previous commit).
 
---- NOTES (from rough draft, verbatim) ---
+--- DRAFT ---
 
-Developing a plan for the co-creation of a theatre work, in community, by theatre artist Robin Moir and visual artist/educator Sally Lawrence. The planning phase anticipates the production of an original musical theatre folk opera etc by Robin alongside two communities Sally lives and works in - The Forest Courtyard Initiative, a small rural alternative Waldorf-Inspired forest/farm school near Tottenham, north of Toronto; and Hesperus Fellowship, an independent living retirement community in Thornhill with a diverse social group where senior residents are invited to take initiative, explore, develop and share their gifts while cultivating meaningful relationships that is home to many artists, educators, and in Thornhill. Through the planning period, the artists (Sally and Robin) will develop the initial content to be presented to the community stakeholders. The implementation of the plan developed in this period will result in co-creating the work with the participants from both  the communities using a variety of creative methodologies, from devised theatre, to crafting, song writing circles, creative movement and other workshops.
+Over four months (November 2026 to March 2027), I will plan the community co-creation of The Seer's Prophecy (working title), an original folk opera drawing on Norse mythology and centred on the stories of its female characters. This planning phase prepares a later project in which students at Forest Courtyard Initiative, a Waldorf-inspired forest and farm school near Tottenham, and residents of Hesperus Fellowship, an independent-living retirement community in Thornhill, co-create the work with me through devised theatre, songwriting circles, crafting, creative movement and other workshops.
 
-The planning phase is crucial to lay the foundation for the co-creative process: Robin will continue developing a storyboard for the narrative, fleshing out characters and writing three to five initial musical numbers to establish the work's sonic aesthetic; Sally will build out a curriculum to guide participation, structuring the flow of co-creation for the eventual participants - as well as establishing visual motifs for the collaborative artistic production to follow. Both artists will maintain communication in the form of monthly meetings with the stakeholders at the retirement community and school - ensuring buy-in for the project beyond the planning phase.
+The opera is at an early stage of conceptualization. Before anyone is asked to join, I want to build the foundation for shared authorship. I will develop a storyboard, flesh out the characters, and write three to five initial songs to establish the work's sound. These materials will be offered to both communities as invitations to respond to, not finished products.
 
-The theatre piece itself is currently in the initial stages of conceptualization by Robin, as a work about Norse mythology, specifically focusing on the narratives of female characters from within the folklore. The piece builds off their previous production, A Song For Hephaestus, a folk opera which used Greek mythology as a lens through which to explore narratives about disability, injustice, and the liberatory potential of creative labour. Robin uses well known mythological characters and stories combined with rich songwriting to empower the participants in their work alongside audiences. In Spring/Summer 2025, Robin and Sally staged two productions of A Song For Hephaestus at Forest Courtyard Initiative and the Toronto Waldorf School, adapted for children aged 7 - 13. Following those successful productions, the two artists engaged in the co-creation of a musical theatre work that explored the stories of four major Abrahamic religions (Judaism, Christianity, Islam, Baha'i Faith) through original songs and popular music, structured into a narrative that was performed by children at the Forest Courtyard School.
+Sally Lawrence, an artist and educator rooted in both communities, will mentor me and act as liaison between me and the two organizations. She will build a curriculum that structures how participants will take part and establish visual motifs for the collaborative work. Sally and I will meet every two weeks, and we will hold monthly meetings with stakeholders at the school and the retirement community, so that both partners help shape the plan and are invested in it before the next phase begins.
 
-The initiative that results from this plan, will build from those successful productions, with the goal of creating a new work that uses well-known mythological narratives to tell new stories that will resonate with both the youth at the school and elderly at the retirement community
+This builds on my earlier work. A Song for Hephaestus, my folk opera, uses Greek mythology to explore disability, injustice and the liberatory potential of creative labour. It was developed in community and premiered at the Chester Playhouse in 2024. Sally and I then staged adapted versions with children aged 7 to 13 at Forest Courtyard Initiative and the Toronto Waldorf School, and later co-created a musical about four Abrahamic faiths (Judaism, Christianity, Islam and the Baha'i Faith) with children at Forest Courtyard.
 
---- NOTES TO SELF ---
-- Draft is well over 425 words; needs cutting.
-- Dates to verify: A Song for Hephaestus premiered at Chester Playhouse in summer 2024; the school productions are described here as Spring/Summer 2025 (check against earlier recollection that the school version was done the spring before last spring).
-- Frame as planning/co-design with process over production.
+By March 2027, I want to have:
+- a storyboard, character outlines and three to five initial songs
+- a participation curriculum and visual motifs
+- strong relationships and shared expectations with both partners
+- a clear picture of each community's access needs
+- a realistic design for an intergenerational project where children and elders have equal input into new work
+
+--- TO CONFIRM ---
+- Robin to approve voice (first person, Robin as applicant).
+- Dates of the school productions (2025 vs. earlier recollection) are left out deliberately; add once confirmed.
+- "Female characters" focus: from the rough draft; confirm it is still the focus.
+- Draft is framed as planning only; no performance is described.
