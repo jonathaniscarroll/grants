@@ -1,6 +1,6 @@
 # OAC Artists in Communities and Schools Projects: The Seer's Prophecy
 
-Working folder for an Ontario Arts Council application, **Planning category**, for the community-engaged planning phase of *The Seer's Prophecy* (working title), an original folk opera drawing on Norse mythology.
+Working folder for an Ontario Arts Council application, **Planning category**, for the community-engaged planning phase of *The Seer's Prophecy* (working title), an original folk opera drawing on Norse mythology. A follow-on **Project** application is intended later.
 
 - Program page: https://www.arts.on.ca/grants/artists-in-communities-and-schools-projects
 - Program contact: Madeline Legg, Program Administrator, mlegg@arts.on.ca, 416-969-7401
@@ -11,14 +11,14 @@ Working folder for an Ontario Arts Council application, **Planning category**, f
 
 - **Robin Moir:** applicant and lead artist, writing the piece
 - **Sally Lawrence:** hired as paid mentor and liaison to the partner organizations; not an applicant
-- **Partners:** Forest Courtyard Initiative (Tottenham, ON) and Hesperus Fellowship (Thornhill, ON)
+- **Partners:** Forest Courtyard Initiative (Tottenham, ON) and Hesperus Fellowship (Thornhill, ON). Both have given **signed letters of intent**; they are not asked to contribute anything until a follow-on Project grant succeeds.
 - Jonathan Carroll is an outside advisor, not an applicant or artist
 - Robert Moir is a separate person from Robin Moir
 
 ## Program rules that matter most
 
 - Planning maximum is $7,500. Up to $3,000 more for mentorship in any category (mentees must be professional artists in an OAC priority group).
-- Needs a confirmed non-arts community partner. Signed letters are mandatory; Planning applicants in early stages may submit letters of intent.
+- Needs a non-arts community partner. Planning applicants in early stages may submit letters of intent instead of confirmation.
 - Process over product: performances or presentations cannot be the primary goal.
 - Professional artists must be paid. Applicants must be Ontario residents.
 - Activity cannot start before the deadline, cannot finish before results, and must finish within two years of results. No public launch before results.
@@ -26,14 +26,14 @@ Working folder for an Ontario Arts Council application, **Planning category**, f
 
 ## Progress
 
-Status key: DRAFT 1 = written and within the word limit, awaiting Robin's review; NOTES = point-form only; EMPTY = nothing yet.
+Status key: DRAFT = written and within the word limit, awaiting Robin's review; NOTES = point-form only; EMPTY = nothing yet.
 
 | File | Nova section | Limit | Status |
 |---|---|---|---|
 | 01_project-plans_what-and-why | What you're planning and achieving | 425 | DRAFT 1 (375 words) |
 | 02_project-plans_work-plan | Work plan table | table | NOTES |
 | 03_project-plans_other-people-and-organizations | Other people and organizations | 20 rows | NOTES |
-| 04_project-plans_why-these-partners | Why these partners | 400 | DRAFT 1 (284 words) |
+| 04_project-plans_why-these-partners | Why these partners | 400 | DRAFT 2 (about 330 words; updated for letters of intent) |
 | 05_project-plans_audiences-and-communities | Who you intend to reach | none | NOTES |
 | 06_project-plans_benefits | Benefits | 450 | NOTES (over limit) |
 | 07_project-plans_reaching-audience | Reaching your audience | 225 | DRAFT 1 (189 words) |
@@ -55,4 +55,5 @@ Support material is in `/support-material` (index, example lists, Sally's bio no
 4. **Timing.** End date of March 11, 2027 is close to the expected results date (about end of February 2027).
 5. **Performances.** The original notes mention two community preview performances; removed from the drafts to protect the process-over-product framing.
 6. **Naming.** Use one name for the partner ("Hesperus Fellowship" is used in drafts; some notes say "Hesperus Village").
-7. **Letters.** Signed letters from both partners (confirmation or intent) are required.
+7. **Letters of intent.** Signed letters are in hand. Before upload, check they are signed by the organizations (not Sally), name the project, and match the partner names used in the application. See `support-material/partner-letters.txt`.
+8. **Section 03.** Partners are listed as unpaid; make sure the role descriptions say "letter of intent, planning-phase meetings" and do not imply space or volunteers are committed now.

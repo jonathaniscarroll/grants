@@ -1,6 +1,6 @@
 PROJECT PLANS: Why have you chosen, or how will you choose, the people and/or organizations you will work with? How will you work with them and what will they contribute? [Maximum 400 words]
 
-STATUS: DRAFT 1 (284 words, about 115 words of room). Original point-form notes are in git history (previous commit).
+STATUS: DRAFT 2 (about 330 words, about 70 words of room). Updated Oct 15: partners' contributions now reflect letters of intent for the planning phase. Original point-form notes are in git history.
 
 --- DRAFT ---
 
@@ -10,15 +10,16 @@ Forest Courtyard Initiative offers holistic, nature-based, arts-integrated educa
 
 Hesperus is a creative hub, home to many retired artists, educators and thinkers from around the world, with a long history of upholding the arts. I have done care work, performed at monthly soirees and worked on plays with residents, and I have much to learn from them. As a second partner, Hesperus can help lead the project in directions I could not find alone.
 
-How we will work together: during this phase I will meet monthly with stakeholders at both organizations, and Sally and I will meet every two weeks. I will test ideas for songwriting circles, crafting nights, skill-sharing and devising workshops. Students at the school will explore Norse mythology in their curriculum, so they come to the project already curious. Sally will share my storyboard and songs with the children as they develop, and invite interested Hesperus residents to say how they would like to lead or learn.
+How we will work together: during this phase I will meet monthly with stakeholders at both organizations, and Sally and I will meet every two weeks. I will plan songwriting circles, crafting nights, skill-sharing and devising workshops with their input. Students at the school will explore Norse mythology in their curriculum, so they come to the project already curious. Sally will share my storyboard and songs with the children as they develop, and invite interested Hesperus residents to say how they would like to lead or learn.
 
-What partners will contribute:
-- Forest Courtyard Initiative: space for events and workshops, volunteers providing snacks, participants, and outreach to families
-- Hesperus Fellowship: space, volunteers, residents' skills and guidance, and outreach to its community
-- Sally Lawrence: mentorship, curriculum design, and liaison between all parties
+What partners will contribute: this planning phase asks little of our partners beyond their time and counsel. They will take part in monthly meetings, tell us about their communities' needs and hopes, and help shape the plan. Both organizations have given signed letters of intent. They are not being asked to provide anything further until a follow-on project is funded.
+
+If that project goes ahead, we expect Forest Courtyard Initiative to offer space, volunteers for snacks, participants and outreach to families, and Hesperus Fellowship to offer space, volunteers, residents' skills and guidance, and outreach. Those commitments would be confirmed in letters for that application.
+
+Sally Lawrence will contribute mentorship, curriculum design, and liaison between all parties.
 
 --- TO CONFIRM ---
 - Grade range: "grade 2 to 7" (from these notes) vs. "grades 1-6" earlier.
-- Hesperus's contributions (space, volunteers, outreach) are assumed to mirror Forest Courtyard's; confirm with Hesperus before the letter is signed.
-- Removed the "two community preview performances" line from the notes: performance-as-outcome risks OAC fit, and it is not part of a planning phase. Restore only if Robin wants it.
-- Use ~115 spare words if wanted for: how Robin will choose Hesperus residents to work with, or why two partners rather than one.
+- The "if that project goes ahead" expectations (space, volunteers, outreach) come from your original notes; check they match what the partners are comfortable with before relying on them.
+- Removed "two community preview performances" from the notes: not planning-phase work, and a fit risk. Restore only if Robin wants it.
+- Check actual word count in Nova before submitting.

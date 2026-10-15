@@ -1,11 +1,19 @@
 PARTNER LETTERS
 
-OAC requirement: signed letter from each non-applicant partner confirming participation in the current project and the time period; ideally on letterhead; no reference letters. Planning applicants in early stages may submit letters of intent instead.
+OAC requirement: signed letter from each non-applicant partner. Planning applicants in the early stages of a project may submit letters of INTENT from potential partners instead of letters of confirmation. Letters must be signed, ideally on letterhead, and must not be reference letters.
 
-Status
-[ ] Forest Courtyard Initiative (Tottenham): expressed interest and appears committed; letter not yet confirmed as received
-[ ] Hesperus Fellowship (Thornhill): likely to provide a letter; not confirmed
+This application is for the Planning category. The partners' letters are letters of intent; partners are not asked to give anything (space, volunteers, outreach) until a follow-on Project grant succeeds.
 
-Letter should cover: project title, dates (Nov 11, 2026 to Mar 11, 2027), space and volunteers offered, monthly stakeholder meetings, why the project matters to the community.
+Status (per Robin, Oct 15, 2026)
+[x] Forest Courtyard Initiative (Tottenham): signed letter of intent in hand
+[x] Hesperus Fellowship (Thornhill): signed letter of intent in hand
 
-NOTE: because Sally works at Forest Courtyard, confirm that the school's letter is clearly from the school (signed by an administrator) and not by Sally.
+Before uploading, check each letter
+[ ] is signed, and ideally on letterhead
+[ ] is signed by someone at the organization (not by Sally Lawrence)
+[ ] names the project (The Seer's Prophecy / community co-creation planning) and refers to the planning period, Nov 2026 to Mar 2027, or otherwise the current project
+[ ] states intent to participate (e.g., stakeholder meetings) and, if it says so, interest in the follow-on project
+[ ] is a letter of intent/support for this project, not a general reference letter
+[ ] organization name matches the application (Hesperus Fellowship vs. Hesperus Village)
+
+File naming: add each scanned PDF to this folder, e.g. letter-of-intent_forest-courtyard.pdf and letter-of-intent_hesperus.pdf.

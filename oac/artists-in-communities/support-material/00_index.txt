@@ -6,9 +6,9 @@ Checklist
 [ ] Professional practice examples (max 2.5 minutes total; file names must include "professional practice example")
 [ ] Community-engaged examples (max 2.5 minutes total; file names must include "community-engaged example" or "letter of reference")
 [ ] Robin CV/bio
-[ ] Sally CV/bio
-[ ] Signed letter from Forest Courtyard Initiative (confirmation, or intent for Planning)
-[ ] Signed letter from Hesperus Fellowship (confirmation, or intent for Planning)
+[ ] Sally CV/bio (mentor)
+[x] Signed letter of intent from Forest Courtyard Initiative (in hand; check before upload, see partner-letters.txt)
+[x] Signed letter of intent from Hesperus Fellowship (in hand; check before upload, see partner-letters.txt)
 [ ] Budget and budget notes
 
 Viewing time rules: 1 image = 15 seconds; 1 page = 30 seconds to 2 minutes.
