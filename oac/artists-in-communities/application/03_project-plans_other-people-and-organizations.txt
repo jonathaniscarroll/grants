@@ -1,6 +1,6 @@
 PROJECT PLANS: If you plan to involve other people or organizations in your project, list them below. [Maximum 20 rows]
 
-STATUS: DRAFT 1. Role descriptions reflect letters of intent: partners are not paid and are not asked to provide anything until the follow-on project.
+STATUS: DRAFT 2. Reworded after reading the signed letters of intent (Oct 14, 2026). The letters say each partner intends to support the community's involvement and will confirm support once the planning grant is funded. They do not mention meetings, hosting or workshops, so the rows below describe those as invitations or possibilities, not agreements.
 
 --- DRAFT ---
 
@@ -13,17 +13,19 @@ Paid? Yes
 Row 2
 Name: Forest Courtyard Initiative
 City/town/First Nation: Tottenham
-Role on project: Community partner; takes part in monthly planning meetings and helps shape the plan. Intended host of youth workshops in the follow-on project.
+Role on project: Community partner. Has signed a letter of intent (Oct 14, 2026) and will confirm its support if this planning grant is funded. Invited to join monthly planning meetings and help shape the plan. Possible host of youth workshops in a follow-on project.
 Paid? No
 
 Row 3
 Name: Hesperus Fellowship
 City/town/First Nation: Thornhill
-Role on project: Community partner; takes part in monthly planning meetings and helps shape the plan. Intended support organization for community workshops in the follow-on project.
+Role on project: Community partner. Has signed a letter of intent (Oct 14, 2026) and will confirm its support if this planning grant is funded. Invited to join monthly planning meetings and help shape the plan. Possible support organization for community workshops in a follow-on project.
 Paid? No
 
 --- TO CONFIRM ---
-- Use one name throughout: "Hesperus Fellowship" (some notes say "Hesperus Village").
-- Hesperus's town was blank in the notes; draft uses Thornhill.
+- Use one name throughout. The Hesperus letterhead logo says "Hesperus Village"; its footer lists "Hesperus Fellowship Community" and "Hesperus Fellowship Village" as charities. Drafts say "Hesperus Fellowship". Decide, then update every section.
+- Hesperus's town was blank in the notes; the letterhead address is Vaughan, ON (1 Hesperus Rd). Draft uses Thornhill; confirm which Nova should show.
 - Sally's location is Thornhill (from the notes); she also lives at Hesperus per her bio notes. Confirm.
+- If either partner agrees by email to join the planning meetings, the "Invited to" wording can become "Will join".
 - Robin is the applicant, so does not appear in this table.
+- Row text is about 45 words each. Check any per-cell limit in Nova.

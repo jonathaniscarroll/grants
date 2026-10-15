@@ -11,7 +11,7 @@ Working folder for an Ontario Arts Council application, **Planning category**, f
 
 - **Robin Moir:** applicant and lead artist, writing the piece. Based in Thornhill, ON (per the October 2026 resume). Discloses as queer, neurodivergent and disabled. Also the mentee.
 - **Sally Lawrence:** hired as mentor and liaison, paid from the mentorship fund; not an applicant. Co-led the Forest Courtyard and Toronto Waldorf School youth productions with Robin.
-- **Partners:** Forest Courtyard Initiative (Tottenham, ON) and Hesperus Fellowship (Thornhill, ON). Both have given **signed letters of intent**; they are not asked to contribute anything until a follow-on Project grant succeeds.
+- **Partners:** Forest Courtyard Initiative (Tottenham, ON) and Hesperus (Thornhill/Vaughan, ON). Both have given **signed letters of intent** (dated Oct 14, 2026); they are not asked to contribute anything until a follow-on Project grant succeeds.
 - Jonathan Carroll is an outside advisor, not an applicant or artist
 - Robert Moir is a separate person from Robin Moir
 
@@ -32,7 +32,7 @@ Status key: DRAFT = written and within the word limit, awaiting Robin's review; 
 |---|---|---|---|
 | 01_project-plans_what-and-why | What you're planning and achieving | 425 | DRAFT 4 (about 395 words; Sally co-led FC and TWS productions) |
 | 02_project-plans_work-plan | Work plan | table | DRAFT 1 |
-| 03_project-plans_other-people-and-organizations | Other people and organizations | 20 rows | DRAFT 1 (3 rows) |
+| 03_project-plans_other-people-and-organizations | Other people and organizations | 20 rows | DRAFT 2 (3 rows; reworded to match the signed letters) |
 | 04_project-plans_why-these-partners | Why these partners | 400 | DRAFT 3 (about 350 words; Hesperus staff history added) |
 | 05_project-plans_audiences-and-communities | Who you intend to reach | none | DRAFT 1 (about 120 words) |
 | 06_project-plans_benefits | Benefits | 450 | DRAFT 2 (about 380 words) |
@@ -45,7 +45,7 @@ Status key: DRAFT = written and within the word limit, awaiting Robin's review; 
 | 13_support-material_examples-description | How examples relate | 150 | DRAFT 2 (about 143 words; Campfire Project video) |
 | 14_budget | Budget and notes | 1,000 | DRAFT 1 ($9,800 total: Robin $6,800, Sally $3,000 mentorship) |
 
-Support material is in `/support-material` (index, example lists, Sally's bio notes, partner-letter tracker, and Robin's October 2026 resume).
+Support material is in `/support-material`: index, example lists, Sally's bio notes, the partner-letter checks, Robin's October 2026 resume, and the two signed letters of intent (PDFs).
 
 ## Decisions made
 
@@ -56,6 +56,7 @@ Support material is in `/support-material` (index, example lists, Sally's bio no
 - Hesperus staff history (2014 to 2020) is mentioned in sections 04 and 12.
 - Other Nova Scotia locations (Mahone Bay, the Cape Breton farm) are removed from Robin's CV entries.
 - Cut from the CV for space: Shakespeare in Action, the 2018 to 2019 Toronto Waldorf School assistant role, the volunteer list, freelance film and music, and the Shattering the Silence Festival credit.
+- The partner letters were read on Oct 15: both are signed, on letterhead, and name the project. Section 03 now describes the partners as having signed letters of intent and being invited to planning meetings, since the letters do not mention meetings or workshops.
 
 ## Open flags
 
@@ -64,8 +65,8 @@ Support material is in `/support-material` (index, example lists, Sally's bio no
 3. **Budget details.** Confirm $40/hour, 170 hours for Robin, and Sally's hours and rate behind her $3,000 flat fee.
 4. **Timing.** End date of March 11, 2027 is close to the expected results date (about end of February 2027).
 5. **Performances.** The original notes mention two community preview performances; removed from the drafts to protect the process-over-product framing.
-6. **Naming.** Use one name for the partner ("Hesperus Fellowship" is used in drafts; some notes say "Hesperus Village").
-7. **Letters of intent.** Signed letters are in hand. Before upload, check they are signed by the organizations (not Sally), name the project, and match the partner names used in the application. See `support-material/partner-letters.txt`.
+6. **Hesperus name.** The Hesperus letterhead logo says "Hesperus Village"; the footer lists the charities "Hesperus Fellowship Community" and "Hesperus Fellowship Village"; the letter body does not name the organization. The drafts (01 to 05, 12, 14) say "Hesperus Fellowship". Pick one name and update them all.
+7. **Letters of intent.** Both are signed and on letterhead (see `support-material/partner-letters.txt`). Remaining points: the Hesperus date has no year; the letters say each partner will "support our community's involvement ... after the initial planning phase" and confirm once funded, so they do not commit the partners to attend planning meetings. Section 03 is worded accordingly. If the work plan (section 02) or section 04 says the partners "will" attend meetings, soften it or get a one-line email from each partner.
 8. **Artistic example limits.** The example list probably exceeds 2.5 minutes per category; trim before upload (section 13).
 9. **Mentorship examples.** Include artistic examples and CVs for the mentor (Sally) and mentee (Robin).
 10. **Dates and grades.** Section 04 says Sally teaches grades 2 to 7 at Forest Courtyard; earlier notes said "grades 1-6"; the resume says the May 2025 adaptation was for grades 1 to 5. Sally's time at Hesperus is "since 2010" in one place and "17 years" in another. Section 01 says Hephaestus premiered "at the Chester Playhouse"; the resume says only that it was done with Chester Playhouse and premiered in August 2024.

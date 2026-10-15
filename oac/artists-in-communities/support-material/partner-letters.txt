@@ -4,16 +4,34 @@ OAC requirement: signed letter from each non-applicant partner. Planning applica
 
 This application is for the Planning category. The partners' letters are letters of intent; partners are not asked to give anything (space, volunteers, outreach) until a follow-on Project grant succeeds.
 
-Status (per Robin, Oct 15, 2026)
-[x] Forest Courtyard Initiative (Tottenham): signed letter of intent in hand
-[x] Hesperus Fellowship (Thornhill): signed letter of intent in hand
+FILES IN THIS FOLDER (read Oct 15, 2026)
+- The Forest Courtyard Initiative.pdf (1 page, scanned image, about 3.7 MB)
+- Letter of Intent_Hesperus Oct 14 2026.pdf (1 page, about 54 KB)
 
-Before uploading, check each letter
-[ ] is signed, and ideally on letterhead
-[ ] is signed by someone at the organization (not by Sally Lawrence)
-[ ] names the project (The Seer's Prophecy / community co-creation planning) and refers to the planning period, Nov 2026 to Mar 2027, or otherwise the current project
-[ ] states intent to participate (e.g., stakeholder meetings) and, if it says so, interest in the follow-on project
-[ ] is a letter of intent/support for this project, not a general reference letter
-[ ] organization name matches the application (Hesperus Fellowship vs. Hesperus Village)
+CHECK RESULTS
 
-File naming: add each scanned PDF to this folder, e.g. letter-of-intent_forest-courtyard.pdf and letter-of-intent_hesperus.pdf.
+Forest Courtyard Initiative (Tottenham)
+[x] Signed (handwritten signature) by Floriana Paonessa, TFCI Administrator. Not signed by Sally.
+[x] On letterhead (logo, Tottenham address, email).
+[x] Dated Wednesday Oct 14, 2026, addressed to OAC, Artists in Communities and Schools Projects.
+[x] Names the project: "The Seer's Prophecy - Planning Phase".
+[x] A letter of intent for this project, not a reference letter.
+
+Hesperus (Thornhill/Vaughan)
+[x] Signed (handwritten signature) by Pina Corigliano, Executive Director. Not signed by Sally.
+[x] On letterhead (logo, Vaughan address, phone, email, registered charity numbers).
+[x] Dated "Wednesday Oct 14" (no year shown). Addressed to OAC, Artists in Communities and Schools Projects.
+[x] Names the project: "The Seer's Prophecy - Planning Phase".
+[x] A letter of intent for this project, not a reference letter.
+
+WHAT THE LETTERS ACTUALLY SAY (identical wording in both)
+- They intend to support "our community's involvement with a new theatrical work by Robin Moir, after the initial planning phase" that Robin is seeking to fund.
+- They look forward to confirming their support once funding for the planning phase is confirmed.
+- They do not mention monthly planning meetings, workshops, hosting, space, or the planning dates (Nov 2026 to Mar 2027).
+- Application text must not claim more than this. Section 03 has been reworded so the partners are described as having signed letters of intent and being invited to planning meetings, not as already committed to them.
+
+TO CONFIRM
+[ ] Hesperus name. The letterhead logo reads "Hesperus Village"; the footer lists the charities "Hesperus Fellowship Community" and "Hesperus Fellowship Village"; the letter body does not name the organization. The drafts say "Hesperus Fellowship". Decide one name and use it in sections 01 to 05, 12 and 14 (see readme flag 6).
+[ ] The Hesperus letter has no year. Optional: ask Pina Corigliano for a copy dated Oct 14, 2026. It was sent with the application date context (Oct 14), so this is a low risk.
+[ ] Ask whether the partners are willing to join the monthly planning meetings in the work plan (section 02). If yes, a one-line email from each would be enough to describe it as agreed.
+[ ] Rename files before upload if helpful, e.g. letter-of-intent_forest-courtyard.pdf and letter-of-intent_hesperus.pdf. Nova may not care about names for letters.

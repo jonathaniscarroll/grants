@@ -7,11 +7,13 @@ Checklist
 [ ] Community-engaged examples (max 2.5 minutes total; file names must include "community-engaged example" or "letter of reference")
 [ ] Robin CV/bio
 [ ] Sally CV/bio (mentor)
-[x] Signed letter of intent from Forest Courtyard Initiative (in hand; check before upload, see partner-letters.txt)
-[x] Signed letter of intent from Hesperus Fellowship (in hand; check before upload, see partner-letters.txt)
+[x] Signed letter of intent from Forest Courtyard Initiative: The Forest Courtyard Initiative.pdf (checked Oct 15: signed by Floriana Paonessa, TFCI Administrator, on letterhead, dated Oct 14, 2026, names the project)
+[x] Signed letter of intent from Hesperus: Letter of Intent_Hesperus Oct 14 2026.pdf (checked Oct 15: signed by Pina Corigliano, Executive Director, on letterhead, names the project; no year in the date; letterhead says "Hesperus Village")
 [ ] Budget and budget notes
+
+See partner-letters.txt for the full check results and what the letters do and do not say.
 
 Viewing time rules: 1 image = 15 seconds; 1 page = 30 seconds to 2 minutes.
 If there are no community-engaged examples, attach 2 letters of reference (max 1 page each); do not substitute extra professional practice examples.
 
-Files to add to this folder when ready: media files, PDFs of letters, CVs.
+Files in this folder: partner letters (2 PDFs), Robin's October 2026 resume (PDF), example lists, Sally's bio notes. Still to add: media files for the artistic examples.
