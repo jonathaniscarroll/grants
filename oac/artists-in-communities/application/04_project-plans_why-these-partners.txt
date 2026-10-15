@@ -1,6 +1,6 @@
 PROJECT PLANS: Why have you chosen, or how will you choose, the people and/or organizations you will work with? How will you work with them and what will they contribute? [Maximum 400 words]
 
-STATUS: DRAFT 2 (about 330 words, about 70 words of room). Updated Oct 15: partners' contributions now reflect letters of intent for the planning phase. Original point-form notes are in git history.
+STATUS: DRAFT 3 (about 350 words by estimate). Hesperus staff history added from Robin's resume. Original point-form notes are in git history.
 
 --- DRAFT ---
 
@@ -8,7 +8,7 @@ I have worked with both Forest Courtyard Initiative and Hesperus Fellowship over
 
 Forest Courtyard Initiative offers holistic, nature-based, arts-integrated education, and my work in mythology and folklore fits well within its curriculum. Sally Lawrence is lead teacher for its grade 2 to 7 children. She is an artist, educator and community leader, and she will act as liaison between me and both organizations.
 
-Hesperus is a creative hub, home to many retired artists, educators and thinkers from around the world, with a long history of upholding the arts. I have done care work, performed at monthly soirees and worked on plays with residents, and I have much to learn from them. As a second partner, Hesperus can help lead the project in directions I could not find alone.
+Hesperus is a creative hub, home to many retired artists, educators and thinkers from around the world, with a long history of upholding the arts. From 2014 to 2020 I worked there on and off as a host and caregiver, helping with meals and events and entertaining residents. I have also performed at monthly soirees and worked on plays with residents, and I have much to learn from them. As a second partner, Hesperus can help lead the project in directions I could not find alone.
 
 How we will work together: during this phase I will meet monthly with stakeholders at both organizations, and Sally and I will meet every two weeks. I will plan songwriting circles, crafting nights, skill-sharing and devising workshops with their input. Students at the school will explore Norse mythology in their curriculum, so they come to the project already curious. Sally will share my storyboard and songs with the children as they develop, and invite interested Hesperus residents to say how they would like to lead or learn.
 
@@ -19,7 +19,8 @@ If that project goes ahead, we expect Forest Courtyard Initiative to offer space
 Sally Lawrence will contribute mentorship, curriculum design, and liaison between all parties.
 
 --- TO CONFIRM ---
-- Grade range: "grade 2 to 7" (from these notes) vs. "grades 1-6" earlier.
+- Grade range: "grade 2 to 7" (from these notes) vs. "grades 1-6" earlier. The resume says the May 2025 adaptation was for grades 1 to 5.
+- Hesperus: the resume says "Host/Caregiver/Meal Preparation/Event Planning/Entertainment, 2014 to 2020 (Intermittent)". Check that "on and off" is how Robin describes it.
 - The "if that project goes ahead" expectations (space, volunteers, outreach) come from your original notes; check they match what the partners are comfortable with before relying on them.
 - Removed "two community preview performances" from the notes: not planning-phase work, and a fit risk. Restore only if Robin wants it.
 - Check actual word count in Nova before submitting.
