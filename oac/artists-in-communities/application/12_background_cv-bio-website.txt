@@ -2,15 +2,16 @@ BACKGROUND: Type or upload your CV(s), resume(s) and bio(s). [Maximum 1,000 word
 
 Website: robinmoir.com
 
-STATUS: DRAFT 1. Robin's credits are taken from Robin_Resume_Dec2025.pdf. Sally's bio is from her notes.
+STATUS: DRAFT 2. Robin's credits are from support-material/OAC Robin_Resume_Oct2026.pdf. Sally's bio is from her notes.
 
 --- ROBIN MOIR (applicant, mentee) ---
 
-Interdisciplinary theatre-maker, composer, filmmaker, director, actor and musician. Creates original folk opera, devised theatre and film centred on community, ensemble-building, and the intersection of music, storytelling and visual language.
+Thornhill, ON. Interdisciplinary theatre-maker, composer, filmmaker, director, actor and musician. Creates original folk opera, devised theatre and film centred on community, ensemble-building, and the intersection of music, storytelling and visual language.
 
 Original work
 - A Song for Hephaestus (folk opera): composer, librettist, director, actor. Forged in Fable Theatre Collective with Chester Playhouse, Chester, NS. Workshopped August 2023 to June 2024; world premiere August 2024.
-- Youth adaptations of A Song for Hephaestus: Forest Courtyard Initiative, May 2025 (musical direction, vocal coaching and acting workshops, grades 1 to 5); Toronto Waldorf School, July 2025 (musical direction and performance, middle school).
+- Youth adaptations of A Song for Hephaestus: Forest Courtyard Initiative, Tottenham, ON, May 2025 (musical direction, vocal coaching, acting workshops, grades 1 to 5); Toronto Waldorf School camp, Thornhill, ON, July 2025 (musical direction and performance, ages 7 to 13).
+- Children of Abraham (review show with original songs and script), Forest Courtyard Initiative, June 2026: musical direction, vocal coaching, acting workshops.
 - Performance of original music from A Song for Hephaestus, Gibraltar Point Centre for the Arts, Toronto Island, April 27, 2025.
 - The Seer's Prophecy (folk opera in development): composer, librettist, director, 2025 to 2026. Vocal demos: Oh Bright One, Every Night I Die Again, Fire and Ice (2025).
 - Hero's Journey (short surreal folk opera, in development): writer and director.
@@ -19,12 +20,11 @@ Original work
 
 Community and youth work
 - Chester Playhouse Summer Youth Theatre Program, July to August 2024: co-creator and co-director with Forged in Fable. Taught more than 100 children and youth, ages 6 to 17, in theatre, musical theatre, film and visual art.
-- The Tempest (youth adaptation), South Shore Players, Mahone Bay, NS, July 2024: theatre camp director, editor, composer and sound designer.
+- The Tempest (youth adaptation), Tottenham, ON, June 2026: theatre camp director, editor, composer and sound designer.
 - Shadowland Theatre, The Campfire Project, August to September 2019: performer and musician in a collective creation and tour across the GTA and southern Ontario, sharing songs, stories, puppetry and craft-making with newly immigrated communities.
-- Shakespeare in Action, Toronto, 2019: assistant director, sound designer, foley, music and stage combat.
-- Canadian Opera Company and Canadian Children's Opera Company, Toronto, 2014 to 2020: research, running crew, stage manager, supernumerary coach and educational workshops.
-- Toronto Waldorf School, October 2018 to February 2019: teaching assistant, assistant director, stage manager and sound designer.
+- Canadian Opera Company and Canadian Children's Opera Company, Toronto, 2014 to 2020: research, running crew, stage manager, supernumerary coach, educational workshops.
 - Hesperus Fellowship, Vaughan, ON, 2014 to 2020 (intermittent): host, caregiver, meal preparation, event planning and entertainment.
+- Discover Canada Tours, Greater Vancouver, 2022 to 2024: tour guide leading groups of up to 52; storytelling and entertainment.
 
 Performance and production
 - 35+ plays and musicals; 20+ operatic performances including a principal role in The Magic Flute, Canadian Opera Company; film A Stone's Throw (2007).
@@ -32,8 +32,8 @@ Performance and production
 - Theatre manager, South Shore Summer Theatre, Mahone Bay, NS, summer 2023.
 
 Education, training and residencies
-- BA, Theatre Performance and Music (Voice), Acadia University, 2014 to 2018. Awards include Best Director and Best Design (MiniFest 2017), Best Technical Work (MiniFest 2018), and the Acadia Theatre Faculty top award (2018).
-- Centre for Alternative Theatre Training, intercultural theatre intensive, Rome, 2016.
+- BA, Theatre Performance and Music (Voice), Acadia University, 2014 to 2018. Teaching assistant for multiple theatre courses (2015 to 2017). Best Director and Best Design (MiniFest 2017), Best Technical Work, Sound Design (MiniFest 2018), Acadia Theatre Faculty top award (2018).
+- Centre for Alternative Theatre Training, intercultural theatre intensive, Rome, 2016 (teaching assistant).
 - InFocus Film School, Vancouver, 2021 to 2022; Intersections Media Film Intensive, Vancouver, 2022.
 - Alchemy Island Artist Residency, Toronto Island, May 2025; Awakening Residency, June to July 2025.
 
@@ -70,8 +70,10 @@ Teaching and community work
 Grants: Artists in the Workplace (three grants, 1990s); Artists in the Schools (two grants, 1990s)
 
 --- TO CONFIRM ---
-- RESIDENCY: the resume lists Robin's address as Halifax, NS. OAC requires professional artist applicants to be Ontario residents. See readme flag 1. This text omits the address.
-- Resume says Forest Courtyard grades 1 to 5; notes elsewhere say 2 to 7. Reconcile.
-- Total is about 900 words; check the count in Nova, or upload a 3-page PDF instead.
-- Robin to cut anything not wanted (e.g., volunteer work, awards, skills).
+- RESIDENCY: the October 2026 resume lists Thornhill, ON, which resolves the earlier Halifax address. Make sure the Nova profile address matches. See readme flag 1.
+- The Tempest, June 2026: the resume reads "South Shore Players, Tottenham, ON", but South Shore Players is the Nova Scotia company from the 2024 listing (Mahone Bay, July 2024). I left the company out. Tell me which is right, and whether 2024 should also be listed.
+- Children of Abraham: confirm it should be described as a "review show" and who else (Sally?) worked on it.
+- Removed to save words: Shakespeare in Action (2019), Toronto Waldorf School assistant role (2018 to 2019), volunteer work, freelance film and music, and awards list beyond Acadia/MiniFest. Restore any you want.
+- Word count: about 950 by estimate; check in Nova, or upload a 3-page PDF instead.
+- Robin to cut anything not wanted.
 - Sally's 2001 move to Nova Scotia is left out; add if wanted.

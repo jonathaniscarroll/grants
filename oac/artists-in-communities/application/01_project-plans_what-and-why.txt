@@ -1,6 +1,6 @@
 PROJECT PLANS: What are you planning to do, and what do you want to achieve with this project? [Maximum 425 words]
 
-STATUS: DRAFT 1 (375 words). Original point-form notes are in git history (previous commit).
+STATUS: DRAFT 2 (about 390 words). Youth-adaptation paragraph updated from Robin's October 2026 resume.
 
 --- DRAFT ---
 
@@ -10,7 +10,7 @@ The opera is at an early stage of conceptualization. Before anyone is asked to j
 
 Sally Lawrence, an artist and educator rooted in both communities, will mentor me and act as liaison between me and the two organizations. She will build a curriculum that structures how participants will take part and establish visual motifs for the collaborative work. Sally and I will meet every two weeks, and we will hold monthly meetings with stakeholders at the school and the retirement community, so that both partners help shape the plan and are invested in it before the next phase begins.
 
-This builds on my earlier work. A Song for Hephaestus, my folk opera, uses Greek mythology to explore disability, injustice and the liberatory potential of creative labour. It was developed in community and premiered at the Chester Playhouse in 2024. Sally and I then staged adapted versions with children aged 7 to 13 at Forest Courtyard Initiative and the Toronto Waldorf School, and later co-created a musical about four Abrahamic faiths (Judaism, Christianity, Islam and the Baha'i Faith) with children at Forest Courtyard.
+This builds on my earlier work. A Song for Hephaestus, my folk opera, uses Greek mythology to explore disability, injustice and the liberatory potential of creative labour. It was developed in community and premiered at the Chester Playhouse in 2024. I then led youth adaptations of it with children at Forest Courtyard Initiative (May 2025) and the Toronto Waldorf School summer camp (July 2025). In June 2026 I created Children of Abraham, a review show with original songs and script about four Abrahamic faiths (Judaism, Christianity, Islam and the Baha'i Faith), with children at Forest Courtyard.
 
 By March 2027, I want to have:
 - a storyboard, character outlines and three to five initial songs
@@ -21,6 +21,8 @@ By March 2027, I want to have:
 
 --- TO CONFIRM ---
 - Robin to approve voice (first person, Robin as applicant).
-- Dates of the school productions (2025 vs. earlier recollection) are left out deliberately; add once confirmed.
+- Dates now match the resume: Hephaestus premiere 2024, Forest Courtyard May 2025, Toronto Waldorf School July 2025, Children of Abraham June 2026.
+- Earlier draft said "Sally and I staged" the youth productions. The resume does not mention Sally, so this now says "I led" and "I created". Restore "Sally and I" if she co-directed or co-created. Section 06 still says "productions Sally and I staged".
+- Children of Abraham: confirm the faiths described and that "review show" is the right term.
 - "Female characters" focus: from the rough draft; confirm it is still the focus.
 - Draft is framed as planning only; no performance is described.
