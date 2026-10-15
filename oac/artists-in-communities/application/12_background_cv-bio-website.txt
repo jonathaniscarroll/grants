@@ -2,13 +2,42 @@ BACKGROUND: Type or upload your CV(s), resume(s) and bio(s). [Maximum 1,000 word
 
 Website: robinmoir.com
 
-STATUS: PARTIAL. Sally's bio is drafted from her notes. Robin's CV needs Robin's own details; only facts from this project are included.
+STATUS: DRAFT 1. Robin's credits are taken from Robin_Resume_Dec2025.pdf. Sally's bio is from her notes.
 
---- ROBIN MOIR (applicant) ---
+--- ROBIN MOIR (applicant, mentee) ---
 
-Robin Moir is a multidisciplinary artist, musician, theatre creator and filmmaker, and an educator, guide and storyteller. Their folk opera A Song for Hephaestus uses Greek mythology to explore disability, injustice and the liberatory potential of creative labour. It premiered at the Chester Playhouse in 2024. In spring and summer 2025, Robin and Sally Lawrence staged two productions of the opera at Forest Courtyard Initiative and the Toronto Waldorf School, adapted for children aged 7 to 13. The two artists then co-created a musical about four Abrahamic faiths (Judaism, Christianity, Islam and the Baha'i Faith) with children at Forest Courtyard Initiative. Robin is now developing The Seer's Prophecy, a folk opera based on Norse mythology. Website: robinmoir.com.
+Interdisciplinary theatre-maker, composer, filmmaker, director, actor and musician. Creates original folk opera, devised theatre and film centred on community, ensemble-building, and the intersection of music, storytelling and visual language.
 
-[Robin to add: film and music credits, other productions, education and training, other community work, with years.]
+Original work
+- A Song for Hephaestus (folk opera): composer, librettist, director, actor. Forged in Fable Theatre Collective with Chester Playhouse, Chester, NS. Workshopped August 2023 to June 2024; world premiere August 2024.
+- Youth adaptations of A Song for Hephaestus: Forest Courtyard Initiative, May 2025 (musical direction, vocal coaching and acting workshops, grades 1 to 5); Toronto Waldorf School, July 2025 (musical direction and performance, middle school).
+- Performance of original music from A Song for Hephaestus, Gibraltar Point Centre for the Arts, Toronto Island, April 27, 2025.
+- The Seer's Prophecy (folk opera in development): composer, librettist, director, 2025 to 2026. Vocal demos: Oh Bright One, Every Night I Die Again, Fire and Ice (2025).
+- Hero's Journey (short surreal folk opera, in development): writer and director.
+- The Shearer's Coat (short film, 2022): production designer. Official selection and finalist, Emerging Artist Film Festival, Calgary.
+- My Name Is Emerita (short documentary, 2021): director and producer. Aired on Telearuba.
+
+Community and youth work
+- Chester Playhouse Summer Youth Theatre Program, July to August 2024: co-creator and co-director with Forged in Fable. Taught more than 100 children and youth, ages 6 to 17, in theatre, musical theatre, film and visual art.
+- The Tempest (youth adaptation), South Shore Players, Mahone Bay, NS, July 2024: theatre camp director, editor, composer and sound designer.
+- Shadowland Theatre, The Campfire Project, August to September 2019: performer and musician in a collective creation and tour across the GTA and southern Ontario, sharing songs, stories, puppetry and craft-making with newly immigrated communities.
+- Shakespeare in Action, Toronto, 2019: assistant director, sound designer, foley, music and stage combat.
+- Canadian Opera Company and Canadian Children's Opera Company, Toronto, 2014 to 2020: research, running crew, stage manager, supernumerary coach and educational workshops.
+- Toronto Waldorf School, October 2018 to February 2019: teaching assistant, assistant director, stage manager and sound designer.
+- Hesperus Fellowship, Vaughan, ON, 2014 to 2020 (intermittent): host, caregiver, meal preparation, event planning and entertainment.
+
+Performance and production
+- 35+ plays and musicals; 20+ operatic performances including a principal role in The Magic Flute, Canadian Opera Company; film A Stone's Throw (2007).
+- Stage manager, Sister Sophia Kicks the Habit, Hamilton Fringe Festival, July 2025.
+- Theatre manager, South Shore Summer Theatre, Mahone Bay, NS, summer 2023.
+
+Education, training and residencies
+- BA, Theatre Performance and Music (Voice), Acadia University, 2014 to 2018. Awards include Best Director and Best Design (MiniFest 2017), Best Technical Work (MiniFest 2018), and the Acadia Theatre Faculty top award (2018).
+- Centre for Alternative Theatre Training, intercultural theatre intensive, Rome, 2016.
+- InFocus Film School, Vancouver, 2021 to 2022; Intersections Media Film Intensive, Vancouver, 2022.
+- Alchemy Island Artist Residency, Toronto Island, May 2025; Awakening Residency, June to July 2025.
+
+Skills: composition, libretto writing, direction, dramaturgy, sound design, shadow puppetry, vocal performance, piano, guitar, ukulele, percussion, workshop facilitation, youth theatre direction, curriculum development.
 
 --- SALLY LAWRENCE (mentor) ---
 
@@ -41,7 +70,8 @@ Teaching and community work
 Grants: Artists in the Workplace (three grants, 1990s); Artists in the Schools (two grants, 1990s)
 
 --- TO CONFIRM ---
-- Sally's "2001: moved to Nova Scotia" appears in her notes; the 2001 to 2013 Brampton/Mississauga work overlaps, so I did not repeat the move. Confirm she wants it included.
-- Sally has lived at Hesperus for many years (notes say both "since 2010" and "17 years"); add a line once confirmed.
-- Combined word count of Robin and Sally entries is within 1,000; adding Robin's credits is fine.
-- Do not add credits for Robin that have not been confirmed.
+- RESIDENCY: the resume lists Robin's address as Halifax, NS. OAC requires professional artist applicants to be Ontario residents. See readme flag 1. This text omits the address.
+- Resume says Forest Courtyard grades 1 to 5; notes elsewhere say 2 to 7. Reconcile.
+- Total is about 900 words; check the count in Nova, or upload a 3-page PDF instead.
+- Robin to cut anything not wanted (e.g., volunteer work, awards, skills).
+- Sally's 2001 move to Nova Scotia is left out; add if wanted.
