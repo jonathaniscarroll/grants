@@ -2,7 +2,7 @@ BACKGROUND: Type or upload your CV(s), resume(s) and bio(s). [Maximum 1,000 word
 
 Website: robinmoir.com
 
-STATUS: DRAFT 2. Robin's credits are from support-material/OAC Robin_Resume_Oct2026.pdf. Sally's bio is from her notes.
+STATUS: DRAFT 2. Robin's credits checked against the October 2026 resume. Sally's bio is from her notes.
 
 --- ROBIN MOIR (applicant, mentee) ---
 
@@ -70,10 +70,10 @@ Teaching and community work
 Grants: Artists in the Workplace (three grants, 1990s); Artists in the Schools (two grants, 1990s)
 
 --- TO CONFIRM ---
-- RESIDENCY: the October 2026 resume lists Thornhill, ON, which resolves the earlier Halifax address. Make sure the Nova profile address matches. See readme flag 1.
-- The Tempest, June 2026: the resume reads "South Shore Players, Tottenham, ON", but South Shore Players is the Nova Scotia company from the 2024 listing (Mahone Bay, July 2024). I left the company out. Tell me which is right, and whether 2024 should also be listed.
-- Children of Abraham: confirm it should be described as a "review show" and who else (Sally?) worked on it.
-- Removed to save words: Shakespeare in Action (2019), Toronto Waldorf School assistant role (2018 to 2019), volunteer work, freelance film and music, and awards list beyond Acadia/MiniFest. Restore any you want.
+- RESIDENCY: the resume lists Thornhill, ON. Make sure the Nova profile address matches. See readme flag 1.
+- The Tempest, June 2026: the resume reads "South Shore Players, Tottenham, ON". It separately lists "South Shore Summer Theatre", Mahone Bay, NS, summer 2023. I left the company name out of the Tempest line. Confirm the name.
+- Children of Abraham: the resume calls it a "review show with original songs" and lists Robin's roles as musical direction, vocal coaching, acting workshops and original script. Confirm who else worked on it (Sally?).
+- Left out to save words: Shakespeare in Action (2019), Toronto Waldorf School assistant role (2018 to 2019), volunteer work, freelance film and music, Shattering the Silence Festival. Restore any you want.
 - Word count: about 950 by estimate; check in Nova, or upload a 3-page PDF instead.
 - Robin to cut anything not wanted.
 - Sally's 2001 move to Nova Scotia is left out; add if wanted.
