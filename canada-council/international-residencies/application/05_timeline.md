@@ -2,20 +2,20 @@
 
 STATUS: DRAFT
 
-Maximum: 3,500 characters. Assessed on Feasibility.
+Maximum: 3,500 characters. Draft below is about 2,100 characters.
 
 ## Draft
 
-October 2026: Funding from NSCAD's Off-Campus Experiential Learning Fund confirmed for flights (up to $16,000, 8 members). Members confirm passports, visas, insurance and travel waiver with NSCAD. Studio allocation and host letter confirmed with ZK/U. [Dates]
+October 2026: NSCAD's Off-Campus Experiential Learning Fund confirms up to $16,000 for flights for eight members. Members confirm passports, visas, insurance and travel waivers with NSCAD. Host letter and studio allocation confirmed with ZK/U.
 
-Before November 7: Flights booked through NSCAD's travel agent. Members plan project scopes, materials and shipping.
+Before November 7: Flights booked through NSCAD's travel agent. The three November travellers plan projects, materials and shipping, and research print shops and paper-making resources in Berlin.
 
-November 7–14, 2026 (first residency period): Arrive in Berlin and settle into the ZK/U studio. Members research and develop individual publication projects, make prototypes and test processes, and meet other fellows. Plan the December production run and market table.
+November 7–14, 2026 (three members): Arrive and settle into the ZK/U studio. Begin producing work: block printing, paper making, hand-binding, image transfers and augmented reality tests. Visit print shops and meet other fellows. Report findings to the five December travellers so the December plan is ready.
 
-November 15 to December 9: Members return to Halifax to complete academic commitments, refine designs and prepare files and materials for production. [Confirm.]
+November 15 to December 9: All members work on designs and files in Halifax. December travellers prepare materials and confirm production plans.
 
-December 10–18, 2026 (second residency period): Return to ZK/U studio. Produce and print the finished work, hold a research-creation presentation for the ZK/U community, and sell printed matter at the December market. Document the residency.
+December 10–18, 2026 (five members): Arrive at ZK/U and continue production. Finish editions, bind and assemble books. Present our research and creation practices to the ZK/U community and sell printed matter at the December market.
 
 After December 18: Debrief as a collective, give the presentation and written report required by NSCAD, report to Canada Council, and plan follow-up editions and distribution.
 
-One member of the collective acts as coordinator for budget, bookings and timeline [name].
+One member acts as coordinator for budget, bookings and timeline [name].
