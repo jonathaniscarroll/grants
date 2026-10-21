@@ -1,1 +1,410 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CCA International Residencies</title><link rel="stylesheet" href="../../assets/application.css"><script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script><script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script></head><body><header><h1>International Residencies</h1><p>Canada Council for the Arts · No deadline recorded</p><a href="../../">← All applications</a></header><div class="layout"><nav id="navlist"></nav><main id="content"></main></div><script src="../../assets/application-viewer.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dada Issues at ZK/U: Canada Council application review</title>
+<meta name="description" content="Review draft of the Canada Council International Residencies application for Dada Issues Collective Press at ZK/U, Berlin.">
+<link rel="preconnect" href="https://api.fontshare.com">
+<link href="https://api.fontshare.com/v2/css?f[]=satoshi@400,500,700&f[]=zodiak@400,700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script>
+<style>
+/* Art direction: quiet working paper for a print-collective grant draft.
+   Palette: warm neutrals, one deep teal accent. Type: Zodiak (display) + Satoshi (body). Density: balanced. */
+:root, [data-theme="light"] {
+  --color-bg:#f7f6f2; --color-surface:#f9f8f5; --color-surface-2:#fbfbf9;
+  --color-surface-offset:#f3f0ec; --color-surface-dynamic:#e6e4df;
+  --color-divider:#dcd9d5; --color-border:#d4d1ca;
+  --color-text:#28251d; --color-text-muted:#6b6a65; --color-text-faint:#8f8e89;
+  --color-text-inverse:#f9f8f4;
+  --color-primary:#01696f; --color-primary-hover:#0c4e54; --color-primary-highlight:#dbe8e5;
+  --color-warning:#964219; --color-warning-bg:#f1e6dc;
+  --radius-sm:.375rem; --radius-md:.5rem; --radius-lg:.75rem;
+  --shadow-sm:0 1px 2px oklch(.2 .01 80/.06); --shadow-md:0 4px 12px oklch(.2 .01 80/.08);
+  --transition-interactive:180ms cubic-bezier(.16,1,.3,1);
+}
+[data-theme="dark"] {
+  --color-bg:#171614; --color-surface:#1c1b19; --color-surface-2:#201f1d;
+  --color-surface-offset:#1d1c1a; --color-surface-dynamic:#2d2c2a;
+  --color-divider:#262523; --color-border:#393836;
+  --color-text:#cdccca; --color-text-muted:#9a9996; --color-text-faint:#7c7b78;
+  --color-text-inverse:#171614;
+  --color-primary:#4f98a3; --color-primary-hover:#6bb0ba; --color-primary-highlight:#26302f;
+  --color-warning:#d9946a; --color-warning-bg:#3a2e26;
+  --shadow-sm:0 1px 2px oklch(0 0 0/.2); --shadow-md:0 4px 12px oklch(0 0 0/.3);
+}
+:root {
+  --text-xs:clamp(.75rem,.7rem + .25vw,.875rem); --text-sm:clamp(.875rem,.8rem + .35vw,1rem);
+  --text-base:clamp(1rem,.95rem + .25vw,1.125rem); --text-lg:clamp(1.125rem,1rem + .75vw,1.5rem);
+  --text-xl:clamp(1.5rem,1.2rem + 1.25vw,2.25rem);
+  --space-1:.25rem; --space-2:.5rem; --space-3:.75rem; --space-4:1rem; --space-5:1.25rem;
+  --space-6:1.5rem; --space-8:2rem; --space-10:2.5rem; --space-12:3rem; --space-16:4rem;
+  --font-display:'Zodiak',Georgia,serif; --font-body:'Satoshi','Helvetica Neue',sans-serif;
+  --sidebar:19rem;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;scroll-behavior:smooth;scroll-padding-top:var(--space-16)}
+body{min-height:100dvh;line-height:1.6;font-family:var(--font-body);font-size:var(--text-base);color:var(--color-text);background:var(--color-bg)}
+button{cursor:pointer;background:none;border:none;font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--color-primary);outline-offset:3px;border-radius:var(--radius-sm)}
+a{color:var(--color-primary)}
+a,button{transition:color var(--transition-interactive),background var(--transition-interactive),border-color var(--transition-interactive)}
+.sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+.skip{position:absolute;left:var(--space-2);top:-4rem;background:var(--color-primary);color:var(--color-text-inverse);padding:var(--space-2) var(--space-4);border-radius:var(--radius-md);z-index:50}
+.skip:focus{top:var(--space-2)}
+
+header.top{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:var(--space-3);
+  padding:var(--space-3) var(--space-4);background:var(--color-bg);border-bottom:1px solid var(--color-divider)}
+.brand{display:flex;align-items:center;gap:var(--space-3);min-width:0}
+.brand svg{width:28px;height:28px;flex:none;color:var(--color-primary)}
+.brand h1{font-family:var(--font-display);font-size:var(--text-xl);font-weight:700;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand p{font-size:var(--text-xs);color:var(--color-text-muted)}
+.spacer{flex:1}
+.icon-btn{min-width:44px;min-height:44px;display:inline-flex;align-items:center;justify-content:center;border-radius:var(--radius-md);gap:var(--space-2);padding:0 var(--space-2);font-size:var(--text-sm)}
+.icon-btn:hover{background:var(--color-surface-dynamic)}
+.icon-btn:active{background:var(--color-divider)}
+#menu-btn{display:none}
+
+.layout{display:grid;grid-template-columns:var(--sidebar) minmax(0,1fr);min-height:calc(100dvh - 69px)}
+nav.side{border-right:1px solid var(--color-divider);background:var(--color-surface);padding:var(--space-4);
+  position:sticky;top:69px;align-self:start;height:calc(100dvh - 69px);overflow-y:auto}
+nav.side h2{font-size:var(--text-xs);text-transform:uppercase;letter-spacing:.08em;color:var(--color-text-muted);font-weight:700;margin:var(--space-5) 0 var(--space-2) var(--space-2)}
+nav.side h2:first-child{margin-top:0}
+nav.side ul{list-style:none}
+nav.side a.file{display:flex;align-items:baseline;gap:var(--space-2);padding:var(--space-2);min-height:44px;border-radius:var(--radius-md);
+  text-decoration:none;color:var(--color-text);font-size:var(--text-sm);line-height:1.3;align-items:center}
+nav.side a.file:hover{background:var(--color-surface-dynamic)}
+nav.side a.file[aria-current="page"]{background:var(--color-primary-highlight);color:var(--color-primary);font-weight:700}
+.num{font-variant-numeric:tabular-nums;font-size:var(--text-xs);color:var(--color-text-muted);min-width:1.6em;flex:none}
+.legacy-note{font-size:var(--text-xs);color:var(--color-text-muted);margin:var(--space-1) var(--space-2) 0}
+
+main{padding:clamp(var(--space-6),4vw,var(--space-12)) clamp(var(--space-4),5vw,var(--space-16));min-width:0}
+.doc{max-width:46rem}
+.doc-head{border-bottom:1px solid var(--color-divider);padding-bottom:var(--space-4);margin-bottom:var(--space-6)}
+.crumb{font-size:var(--text-xs);color:var(--color-text-muted);overflow-wrap:anywhere}
+.doc-head h2{font-family:var(--font-display);font-size:var(--text-xl);font-weight:700;margin-top:var(--space-2);line-height:1.2}
+.meta{display:flex;flex-wrap:wrap;gap:var(--space-2);margin-top:var(--space-3);align-items:center}
+.chip{font-size:var(--text-xs);padding:var(--space-1) var(--space-3);border-radius:9999px;background:var(--color-surface-dynamic);color:var(--color-text-muted);font-variant-numeric:tabular-nums}
+.chip.status{background:var(--color-primary-highlight);color:var(--color-primary);font-weight:700}
+.chip.limit{background:var(--color-warning-bg);color:var(--color-warning)}
+.actions{margin-left:auto;display:flex;gap:var(--space-2)}
+.btn{font-size:var(--text-sm);min-height:44px;padding:0 var(--space-4);border-radius:var(--radius-md);border:1px solid var(--color-border);background:var(--color-surface);display:inline-flex;align-items:center;text-decoration:none;color:var(--color-text)}
+.btn:hover{background:var(--color-surface-dynamic)}
+.btn:active{background:var(--color-divider)}
+
+.txt{font-size:var(--text-base);line-height:1.7}
+.txt .line{white-space:pre-wrap;overflow-wrap:anywhere;max-width:72ch}
+.txt .blank{height:var(--space-3)}
+.txt .rule{font-weight:700;margin-top:var(--space-6);padding-top:var(--space-4);border-top:1px solid var(--color-divider);font-family:var(--font-display);font-size:var(--text-lg)}
+.txt .bullet{padding-left:1.4em;text-indent:-1.1em;white-space:pre-wrap;overflow-wrap:anywhere;max-width:72ch}
+.txt .caps{font-weight:700;margin-top:var(--space-3)}
+.confirm{margin-top:var(--space-6);background:var(--color-warning-bg);border-radius:var(--radius-lg);padding:var(--space-4) var(--space-5)}
+.confirm .rule{margin-top:0;padding-top:0;border:0;color:var(--color-warning)}
+
+.md h1,.md h2,.md h3{font-family:var(--font-display);line-height:1.2;margin:var(--space-8) 0 var(--space-3)}
+.md h1{font-size:var(--text-xl);margin-top:0}
+.md h2{font-size:var(--text-lg)}
+.md h3{font-size:var(--text-base);font-family:var(--font-body);font-weight:700}
+.md p,.md li{max-width:72ch;margin-bottom:var(--space-3);overflow-wrap:anywhere}
+.md ul,.md ol{padding-left:1.4rem;margin-bottom:var(--space-3)}
+.md code{font-size:.9em;background:var(--color-surface-dynamic);padding:.1em .35em;border-radius:var(--radius-sm)}
+.md pre{overflow-x:auto;background:var(--color-surface-offset);padding:var(--space-4);border-radius:var(--radius-md)}
+.md .tablewrap{overflow-x:auto;margin:var(--space-4) 0;border:1px solid var(--color-divider);border-radius:var(--radius-md)}
+.md table{border-collapse:collapse;width:100%;font-size:var(--text-sm)}
+.md th,.md td{padding:var(--space-2) var(--space-3);text-align:left;border-bottom:1px solid var(--color-divider);vertical-align:top}
+.md th{background:var(--color-surface-offset);font-size:var(--text-xs);text-transform:uppercase;letter-spacing:.05em;color:var(--color-text-muted);white-space:nowrap}
+.md tr:last-child td{border-bottom:0}
+.md td:first-child{font-variant-numeric:tabular-nums}
+
+.state{max-width:36rem;padding:var(--space-12) 0;color:var(--color-text-muted)}
+.state h2{font-family:var(--font-display);font-size:var(--text-lg);color:var(--color-text);margin-bottom:var(--space-2)}
+.skeleton{background:linear-gradient(90deg,var(--color-surface-offset) 25%,var(--color-surface-dynamic) 50%,var(--color-surface-offset) 75%);background-size:200% 100%;animation:shimmer 1.5s ease-in-out infinite;border-radius:var(--radius-sm);height:1em;margin-bottom:var(--space-3)}
+@keyframes shimmer{0%{background-position:-200% 0}100%{background-position:200% 0}}
+.pager{display:flex;justify-content:space-between;gap:var(--space-3);margin-top:var(--space-12);padding-top:var(--space-4);border-top:1px solid var(--color-divider)}
+.pager a{display:flex;flex-direction:column;text-decoration:none;color:var(--color-text);min-height:44px;padding:var(--space-2) var(--space-3);border-radius:var(--radius-md);max-width:48%}
+.pager a:hover{background:var(--color-surface-dynamic)}
+.pager small{color:var(--color-text-muted);font-size:var(--text-xs)}
+.pager a.next{text-align:right;margin-left:auto}
+footer.foot{padding:var(--space-6) var(--space-4);font-size:var(--text-xs);color:var(--color-text-muted);border-top:1px solid var(--color-divider)}
+
+@media (max-width:900px){
+  .layout{grid-template-columns:1fr}
+  #menu-btn{display:inline-flex}
+  nav.side{position:fixed;inset:69px 0 0 0;height:auto;z-index:15;transform:translateX(-100%);visibility:hidden;transition:transform 220ms cubic-bezier(.16,1,.3,1),visibility 220ms}
+  nav.side.open{transform:none;visibility:visible}
+  .actions{margin-left:0;width:100%}
+  .brand p{display:none}
+}
+@media print{header.top,nav.side,.actions,.pager,footer.foot{display:none}.layout{display:block}main{padding:0}}
+@media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#content">Skip to content</a>
+
+<header class="top">
+  <button id="menu-btn" class="icon-btn" aria-label="Open section list" aria-expanded="false" aria-controls="side">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+  </button>
+  <div class="brand">
+    <svg viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="Dada Issues print block mark">
+      <rect x="5" y="5" width="22" height="22" rx="2"/>
+      <path d="M5 27L27 5"/>
+      <circle cx="11" cy="11" r="2.5"/>
+      <path d="M17 23h6"/>
+    </svg>
+    <div>
+      <h1>Dada Issues at ZK/U</h1>
+      <p>Canada Council International Residencies: application review</p>
+    </div>
+  </div>
+  <span class="spacer"></span>
+  <button id="reload" class="icon-btn" aria-label="Reload files from the repository">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg>
+    <span>Refresh</span>
+  </button>
+  <button id="theme" class="icon-btn" aria-label="Switch to dark mode"></button>
+</header>
+
+<div class="layout">
+  <nav class="side" id="side" aria-label="Application sections"><div id="navlist"><div class="skeleton" style="width:80%"></div><div class="skeleton" style="width:65%"></div><div class="skeleton" style="width:72%"></div></div></nav>
+  <main id="content" tabindex="-1" aria-live="polite">
+    <div class="doc"><div class="skeleton" style="width:40%;height:2em"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton" style="width:70%"></div></div>
+  </main>
+</div>
+<footer class="foot"><a href="../../">← All applications</a> · This page reads the folder live from GitHub each time it loads, so it always shows the latest committed drafts. Edits are made in the repository, not here.</footer>
+
+<script>
+(function () {
+  'use strict';
+
+  var DIR = 'canada-council/international-residencies';
+  var m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  var OWNER = m ? m[1] : 'jonathaniscarroll';
+  var parts = location.pathname.split('/').filter(Boolean);
+  var REPO = m && parts.length ? parts[0] : 'grants';
+  var BRANCH = 'main';
+  var TEXT_EXT = /\.(txt|md|markdown)$/i;
+
+  var navEl = document.getElementById('navlist');
+  var mainEl = document.getElementById('content');
+  var sideEl = document.getElementById('side');
+  var menuBtn = document.getElementById('menu-btn');
+  var files = [];
+  var cache = {};
+  var current = null;
+
+  var ICON_SUN = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>';
+  var ICON_MOON = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+
+  var themeBtn = document.getElementById('theme');
+  var dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  function applyTheme() {
+    document.documentElement.setAttribute('data-theme', dark ? 'dark' : 'light');
+    themeBtn.innerHTML = dark ? ICON_SUN : ICON_MOON;
+    themeBtn.setAttribute('aria-label', 'Switch to ' + (dark ? 'light' : 'dark') + ' mode');
+  }
+  themeBtn.addEventListener('click', function () { dark = !dark; applyTheme(); });
+  applyTheme();
+
+  function setMenu(open) {
+    sideEl.classList.toggle('open', open);
+    menuBtn.setAttribute('aria-expanded', String(open));
+    menuBtn.setAttribute('aria-label', open ? 'Close section list' : 'Open section list');
+  }
+  menuBtn.addEventListener('click', function () { setMenu(!sideEl.classList.contains('open')); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setMenu(false); });
+
+  function baseName(p) { return p.split('/').pop(); }
+  function numOf(p) { var x = baseName(p).match(/^(\d{1,2})[_-]/); return x ? x[1] : ''; }
+  function prettyName(p) {
+    var b = baseName(p).replace(/\.[^.]+$/, '');
+    b = b.replace(/^\d{1,2}[_-]/, '');
+    b = b.replace(/^(project-plans|background|support-material)[_-]/i, '');
+    b = b.replace(/[_-]+/g, ' ').trim();
+    if (/^readme$/i.test(b)) return 'Overview (readme)';
+    return b.charAt(0).toUpperCase() + b.slice(1);
+  }
+  function groupOf(p) {
+    var rel = p.slice(DIR.length + 1);
+    var seg = rel.split('/');
+    if (seg.length === 1) return /^readme\.md$/i.test(rel) ? '0|Overview' : '9|Other files in the main folder';
+    if (seg[0] === 'application') return '1|Application sections';
+    if (seg[0] === 'support-material') return '2|Support material';
+    return '5|' + seg[0].replace(/[_-]/g, ' ');
+  }
+  function sortKey(p) {
+    var b = baseName(p);
+    var n = b.match(/^(\d+)/);
+    return (n ? String(parseInt(n[1], 10)).padStart(3, '0') : '999') + b.toLowerCase();
+  }
+
+  function rawUrl(p) { return 'https://raw.githubusercontent.com/' + OWNER + '/' + REPO + '/' + BRANCH + '/' + p.split('/').map(encodeURIComponent).join('/'); }
+  function relUrl(p) { return p.slice(DIR.length + 1).split('/').map(encodeURIComponent).join('/') + '?t=' + Date.now(); }
+
+  function listFiles() {
+    return fetch('https://api.github.com/repos/' + OWNER + '/' + REPO + '/git/trees/' + BRANCH + '?recursive=1', { headers: { Accept: 'application/vnd.github+json' } })
+      .then(function (r) {
+        if (!r.ok) throw new Error(r.status === 403 ? 'GitHub rate limit reached. Try again in a few minutes.' : 'Could not list the repository (' + r.status + ').');
+        return r.json();
+      })
+      .then(function (j) {
+        return j.tree.filter(function (n) {
+          return n.type === 'blob' && n.path.indexOf(DIR + '/') === 0 && !/(^|\/)index\.html$/i.test(n.path) && !/(^|\/)\./.test(n.path.slice(DIR.length + 1));
+        }).map(function (n) { return { path: n.path, size: n.size }; });
+      });
+  }
+
+  function loadText(p) {
+    if (cache[p] !== undefined) return Promise.resolve(cache[p]);
+    function ok(r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); }
+    var isMd = /\.(md|markdown)$/i.test(p);
+    var first = isMd ? fetch(rawUrl(p)).then(ok) : fetch(relUrl(p)).then(ok).catch(function () { return fetch(rawUrl(p)).then(ok); });
+    return first.catch(function () { return fetch(rawUrl(p)).then(ok); }).then(function (t) { cache[p] = t; return t; });
+  }
+
+  function buildNav() {
+    var groups = {};
+    files.forEach(function (f) { var g = groupOf(f.path); (groups[g] = groups[g] || []).push(f); });
+    var html = '';
+    Object.keys(groups).sort().forEach(function (g) {
+      var title = g.split('|')[1];
+      var list = groups[g].sort(function (a, b) { return sortKey(a.path) < sortKey(b.path) ? -1 : 1; });
+      html += '<h2>' + esc(title) + '</h2><ul>';
+      list.forEach(function (f) {
+        var n = numOf(f.path);
+        html += '<li><a class="file" href="#' + encodeURIComponent(f.path.slice(DIR.length + 1)) + '" data-path="' + esc(f.path) + '"><span class="num">' + esc(n) + '</span><span>' + esc(prettyName(f.path)) + '</span></a></li>';
+      });
+      html += '</ul>';
+    });
+    navEl.innerHTML = html || '<p class="legacy-note">No files found in this folder.</p>';
+  }
+  function markCurrent() {
+    Array.prototype.forEach.call(navEl.querySelectorAll('a.file'), function (a) {
+      if (a.getAttribute('data-path') === current) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+    });
+  }
+  function ordered() {
+    var out = [];
+    Array.prototype.forEach.call(navEl.querySelectorAll('a.file'), function (a) { out.push(a.getAttribute('data-path')); });
+    return out;
+  }
+
+  function wordCount(t) { var m = t.trim().match(/\S+/g); return m ? m.length : 0; }
+  function statusOf(t) { var m = t.match(/^STATUS:\s*(.+)$/mi); return m ? m[1].trim() : ''; }
+  function limitOf(t) { var m = t.match(/Maximum\s+([\d,]+)\s+(words|characters|rows)/i) || t.match(/\[(?:Maximum|Max\.?)\s*([\d,]+)\s*(words|characters)?/i); return m ? m[0].replace(/^\[/, '') : ''; }
+
+  function renderTxt(t) {
+    var split = t.split(/\n(?=--- TO CONFIRM ---)/);
+    function block(s) {
+      var out = '';
+      s.replace(/\r/g, '').split('\n').forEach(function (line) {
+        if (!line.trim()) { out += '<div class="blank"></div>'; return; }
+        if (/^---.*---\s*$/.test(line.trim())) { out += '<div class="rule">' + esc(line.replace(/^-+\s*|\s*-+$/g, '')) + '</div>'; return; }
+        if (/^\s*[-*•]\s+/.test(line)) { out += '<div class="bullet">• ' + esc(line.replace(/^\s*[-*•]\s+/, '')) + '</div>'; return; }
+        if (/^[A-Z][A-Z0-9 ,'’&()\/:.-]{6,}$/.test(line.trim()) || /^[A-Za-z ]{3,40}:$/.test(line.trim())) { out += '<div class="line caps">' + esc(line) + '</div>'; return; }
+        out += '<div class="line">' + esc(line) + '</div>';
+      });
+      return out;
+    }
+    var html = '<div class="txt">' + block(split[0]) + '</div>';
+    if (split[1]) html += '<aside class="confirm txt" aria-label="Items to confirm">' + block(split[1]) + '</aside>';
+    return html;
+  }
+
+  function renderMd(t) {
+    marked.setOptions({ gfm: true, breaks: false });
+    var tmp = document.createElement('div');
+    tmp.innerHTML = DOMPurify.sanitize(marked.parse(t));
+    Array.prototype.forEach.call(tmp.querySelectorAll('table'), function (tb) {
+      var w = document.createElement('div'); w.className = 'tablewrap'; tb.parentNode.insertBefore(w, tb); w.appendChild(tb);
+    });
+    return '<div class="md">' + tmp.innerHTML + '</div>';
+  }
+
+  function resolveLink(href, fromPath) {
+    if (!href || /^(https?:|mailto:|tel:|#)/i.test(href)) return null;
+    var base = fromPath.split('/').slice(0, -1);
+    href.split('#')[0].split('/').forEach(function (s) { if (s === '..') base.pop(); else if (s && s !== '.') base.push(s); });
+    var full = base.join('/');
+    var hit = files.filter(function (f) { return f.path === full || f.path.indexOf(full + '/') === 0 && /index|readme/i.test(baseName(f.path)); })[0];
+    if (!hit) { var dirFiles = files.filter(function (f) { return f.path.indexOf(full.replace(/\/$/, '') + '/') === 0; }); hit = dirFiles.sort(function (a, b) { return sortKey(a.path) < sortKey(b.path) ? -1 : 1; })[0]; }
+    return hit ? hit.path : null;
+  }
+
+  function show(path) {
+    var f = files.filter(function (x) { return x.path === path; })[0];
+    if (!f) { showMessage('File not found', 'That file is no longer in the folder. Pick another from the list.'); return; }
+    current = path; markCurrent(); setMenu(false);
+    var rel = path.slice(DIR.length + 1);
+    var ghUrl = 'https://github.com/' + OWNER + '/' + REPO + '/blob/' + BRANCH + '/' + path;
+    var editUrl = 'https://github.com/' + OWNER + '/' + REPO + '/edit/' + BRANCH + '/' + path;
+    document.title = prettyName(path) + ' | Dada Issues at ZK/U';
+
+    if (!TEXT_EXT.test(path)) {
+      mainEl.innerHTML = '<div class="doc"><div class="doc-head"><div class="crumb">' + esc(rel) + '</div><h2>' + esc(prettyName(path)) + '</h2></div><p>This file is not a text document, so it cannot be previewed here.</p><p style="margin-top:1rem"><a class="btn" href="' + esc(ghUrl) + '" target="_blank" rel="noopener noreferrer">Open on GitHub</a></p></div>';
+      mainEl.focus({ preventScroll: true }); window.scrollTo(0, 0); return;
+    }
+
+    mainEl.innerHTML = '<div class="doc"><div class="skeleton" style="width:40%;height:2em"></div><div class="skeleton"></div><div class="skeleton"></div><div class="skeleton" style="width:70%"></div></div>';
+    loadText(path).then(function (t) {
+      if (current !== path) return;
+      var isMd = /\.(md|markdown)$/i.test(path);
+      var st = statusOf(t), lim = limitOf(t);
+      var metaHtml = '';
+      if (st) metaHtml += '<span class="chip status">' + esc(st.split(/[.;]/)[0]) + '</span>';
+      if (lim) metaHtml += '<span class="chip limit">' + esc(lim.replace(/[\]\[:]/g, '')) + '</span>';
+      metaHtml += '<span class="chip">' + wordCount(t).toLocaleString() + ' words in file (includes notes)</span>';
+      var html = '<article class="doc"><div class="doc-head"><div class="crumb">' + esc(rel) + '</div><h2>' + esc(prettyName(path)) + '</h2><div class="meta">' + metaHtml +
+        '<span class="actions"><a class="btn" href="' + esc(editUrl) + '" target="_blank" rel="noopener noreferrer">Edit on GitHub</a><a class="btn" href="' + esc(ghUrl) + '" target="_blank" rel="noopener noreferrer">View source</a></span></div></div>';
+      html += isMd ? renderMd(t) : renderTxt(t);
+      var list = ordered(), i = list.indexOf(path);
+      html += '<div class="pager">';
+      if (i > 0) html += '<a class="prev" href="#' + encodeURIComponent(list[i - 1].slice(DIR.length + 1)) + '"><small>Previous</small>' + esc(prettyName(list[i - 1])) + '</a>';
+      if (i >= 0 && i < list.length - 1) html += '<a class="next" href="#' + encodeURIComponent(list[i + 1].slice(DIR.length + 1)) + '"><small>Next</small>' + esc(prettyName(list[i + 1])) + '</a>';
+      html += '</div></article>';
+      mainEl.innerHTML = html;
+
+      Array.prototype.forEach.call(mainEl.querySelectorAll('.md a[href]'), function (a) {
+        var h = a.getAttribute('href');
+        var hit = resolveLink(h, path);
+        if (hit) { a.setAttribute('href', '#' + encodeURIComponent(hit.slice(DIR.length + 1))); }
+        else if (!/^#/.test(h)) { a.setAttribute('target', '_blank'); a.setAttribute('rel', 'noopener noreferrer'); }
+      });
+      mainEl.focus({ preventScroll: true });
+      window.scrollTo(0, 0);
+    }).catch(function () {
+      showMessage('Could not load this file', 'The file exists in the repository but could not be fetched. Check the repository is public or the Pages site is published, then use Refresh.');
+    });
+  }
+
+  function showMessage(h, p) {
+    mainEl.innerHTML = '<div class="state"><h2>' + esc(h) + '</h2><p>' + esc(p) + '</p></div>';
+  }
+
+  function route() {
+    var h = decodeURIComponent(location.hash.replace(/^#/, ''));
+    var target = h ? DIR + '/' + h : '';
+    var exists = files.some(function (f) { return f.path === target; });
+    if (exists) { show(target); return; }
+    var first = files.filter(function (f) { return /^readme\.md$/i.test(f.path.slice(DIR.length + 1)); })[0] || files[0];
+    if (first) show(first.path); else showMessage('Nothing here yet', 'No files were found in ' + DIR + '. Add section files to the folder and press Refresh.');
+  }
+
+  function init() {
+    cache = {};
+    navEl.innerHTML = '<div class="skeleton" style="width:80%"></div><div class="skeleton" style="width:65%"></div><div class="skeleton" style="width:72%"></div>';
+    listFiles().then(function (list) { files = list; buildNav(); route(); })
+      .catch(function (e) { navEl.innerHTML = ''; showMessage('Could not load the folder', e.message + ' If the repository is private, GitHub cannot be read from this page without sign-in.'); });
+  }
+
+  window.addEventListener('hashchange', function () { if (files.length) route(); });
+  document.getElementById('reload').addEventListener('click', init);
+  init();
+})();
+</script>
+</body>
+</html>
