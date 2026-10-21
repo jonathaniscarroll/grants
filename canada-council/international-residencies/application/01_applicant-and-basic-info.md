@@ -21,18 +21,20 @@ This section is not seen by the peer committee.
 | Field | Answer |
 | --- | --- |
 | Application name | Dada Issues Collective Press at ZK/U Berlin |
-| One-sentence summary | [Draft: Eight members of Halifax-based Dada Issues Collective Press will take up a residency at ZK/U in Berlin to ... artist-book publishing ...] |
+| One-sentence summary | Eight members of Halifax-based Dada Issues Collective Press will develop individual artist-book projects in studio at ZK/U Berlin and present and sell their work at a December market. |
 | Artistic practice | Literary arts, publishing (alternative: Inter-arts, integrated arts) |
-| Type of activity | Residencies; also tick Creation and/or Creative research, with networking |
-| Start date | [TBD — November 2026 reading week; must be after the deadline] |
-| End date | [TBD — at least 5 consecutive days] |
+| Type of activity | Residencies; also tick Creation and Creative research, with networking |
+| Start date | November 7, 2026 (must be after the deadline) |
+| End date | December 18, 2026 |
 
 ## Residency overview
 
-| Field | Answer |
-| --- | --- |
-| Activity | [Creation and networking / Creative research and networking / Both] |
-| Location | Germany, Berlin (Moabit, Berlin-Mitte), ZK/U, Siemensstr. 27 |
+Two activity periods, each at least 5 consecutive days:
+
+| Period | Dates | Activity | Location |
+| --- | --- | --- | --- |
+| 1 | Nov 7–14, 2026 (8 days) | Creative research and creation, with networking | Berlin, Germany (ZK/U, Siemensstr. 27) |
+| 2 | Dec 10–18, 2026 (9 days) | Creation and networking: production, presentation, market | Berlin, Germany (ZK/U) |
 
 ## About the applicant (source: dadaissues.ca/information)
 
