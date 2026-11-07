@@ -1,6 +1,23 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Est-Nord-Est — Jonathan Carroll</title><link rel="stylesheet" href="../../assets/application.css"><script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script><script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script></head><body><header><h1>Est-Nord-Est Residency</h1><p>Jonathan Carroll · Individual application · Working draft</p><a href="../../">← All applications</a></header><div class="layout"><nav id="navlist" aria-label="Application sections"><h2>Application</h2><ul><li><a href="#statement">Statement and intentions</a></li></ul><h2>Submission checklist</h2><ul><li>CV: maximum 2 pages, PDF</li><li>Statement and intentions: maximum 1 page, PDF</li><li>Portfolio: 10–15 JPG images in one PDF with descriptions</li><li>Video: accessible links and passwords, if applicable</li></ul></nav><main id="content" aria-live="polite"><p>Loading draft…</p></main></div><script>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Est-Nord-Est — Jonathan Carroll</title><link rel="stylesheet" href="../../assets/application.css"><script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script><script src="https://cdn.jsdelivr.net/npm/dompurify@3/dist/purify.min.js"></script></head><body><header><h1>Est-Nord-Est Residency</h1><p>Jonathan Carroll · Individual application · Working drafts</p><a href="../../">← All applications</a></header><div class="layout"><nav id="navlist" aria-label="Application sections"><h2>Application</h2><ul><li><a href="#statement">Statement and intentions</a></li><li><a href="#cv">Selected artist CV</a></li></ul><h2>Submission checklist</h2><ul><li>CV: maximum 2 pages, PDF</li><li>Statement and intentions: maximum 1 page, PDF</li><li>Portfolio: 10–15 JPG images in one PDF with descriptions</li><li>Video: accessible links and passwords, if applicable</li></ul><p>Web drafts are not final submission PDFs.</p></nav><main id="content" aria-live="polite"><p>Loading draft…</p></main></div><script>
 'use strict';
 const content = document.getElementById('content');
-fetch('./application/02_statement-and-intentions.md').then(response => { if (!response.ok) throw new Error('Draft unavailable'); return response.text(); }).then(text => { content.innerHTML = '<article>' + DOMPurify.sanitize(marked.parse(text)) + '</article>'; }).catch(() => { content.textContent = 'The draft could not be loaded. Please refresh or open the application folder on GitHub.'; });
+const documents = {statement: '02_statement-and-intentions.md', cv: '01_cv.md'};
+let requestNumber = 0;
+async function showDocument() {
+  const request = ++requestNumber;
+  const key = location.hash.slice(1) === 'cv' ? 'cv' : 'statement';
+  content.textContent = 'Loading draft…';
+  try {
+    const response = await fetch('./application/' + documents[key]);
+    if (!response.ok) throw new Error('Draft unavailable');
+    const text = await response.text();
+    if (request !== requestNumber) return;
+    content.innerHTML = '<article>' + DOMPurify.sanitize(marked.parse(text)) + '</article>';
+  } catch (error) {
+    if (request === requestNumber) content.textContent = 'The draft could not be loaded. Please refresh or open the application folder on GitHub.';
+  }
+}
+window.addEventListener('hashchange', showDocument);
+showDocument();
 </script></body></html>
